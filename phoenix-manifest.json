@@ -1,0 +1,2724 @@
+{
+  "schema_version": "1.2",
+  "site": {
+    "id": "ufo-noises",
+    "identity_source": "site_id",
+    "network": "unassigned",
+    "title": "UFO Noises",
+    "canonical_url": "https://ufo-noises.isaackoi.com",
+    "description": "Practical guides on UFO Noises, organized for fast browsing and comparison.",
+    "primary_focus_id": "ufo",
+    "focus_ids": [
+      "ufo"
+    ],
+    "primary_topic_ids": [],
+    "primary_subject_ids": []
+  },
+  "release_id": "release-e685e3707d7a10dc3c32",
+  "previous_release_id": "release-17ded87a180eb0da089b",
+  "generated_at": "2026-08-09T09:24:24Z",
+  "entity_entrypoints": [],
+  "pages": [
+    {
+      "id": "ufo-noises:page:97fc70cd91db34e201c5dbd4",
+      "logical_id": "ufo-noises-37edd1",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises/",
+      "title": "What Do UFO Witnesses Hear?",
+      "summary": "People who report UFOs often describe more than lights in the sky. A recurring feature in many sightings is sound: humming, buzzing, clicking, roaring, whistling, metallic vibrations, low-frequency droning and, in some cases, complete silence where noise would normally be expected.",
+      "hierarchy": {
+        "level": 1,
+        "parent_id": null
+      },
+      "tags": [
+        "ufo-noises"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:d74434c7a7ddc4e44646b5eb5cbb7a491e16671b6f5c7726db225a0c85f1cb4a",
+      "reconciliation_fingerprint": "sha256:af5ae56c836ac72d07f8f68237c775dea033299981b0760facb7593ff33e1a19",
+      "updated_at": "2026-05-31 04:55:02"
+    },
+    {
+      "id": "ufo-noises:page:fad70fcf059b350545668408",
+      "logical_id": "ufo-noises-37edd1-acoustic-monitoring-609fad",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/sensors/",
+      "title": "Sensors",
+      "summary": "Multi-band sensors can record audible sound and infrasound, giving investigators more than memory to work with.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "sensors"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c3c389d81b454bedcd0b210ca5d85cb8b0c06fab77faee00971788ef2e03cfb6",
+      "reconciliation_fingerprint": "sha256:da9e403636932e72ce9107695303834ab66f76b17653fa9e40d009b919f20679",
+      "updated_at": "2026-05-31 04:56:01"
+    },
+    {
+      "id": "ufo-noises:page:3d89206b2f33d3c8ad51a271",
+      "logical_id": "ufo-noises-37edd1-acoustic-monitoring-609fad-acoustic-arrays-loca-f3bdd0",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/arrays/",
+      "title": "Arrays",
+      "summary": "Microphone arrays can compare arrival times across sensors to estimate where a suspicious aerial sound came from.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:fad70fcf059b350545668408"
+      },
+      "tags": [
+        "ufo-noises",
+        "sensors",
+        "arrays"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:35b233b24dd5d4a3d4a822c17975ddb5b977bab7965dd7957f3c1118887f3626",
+      "reconciliation_fingerprint": "sha256:b388b7ade9578be35efa0be0f854571712931915ac17c9a37af9f226f46055e9",
+      "updated_at": "2026-05-31 05:01:53"
+    },
+    {
+      "id": "ufo-noises:page:46263c1590c0a880273d5eb1",
+      "logical_id": "ufo-noises-37edd1-acoustic-monitoring-609fad-chelyabinsk-acoustic-7e83b8",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/chelyabinsk/",
+      "title": "Chelyabinsk",
+      "summary": "The Chelyabinsk meteor showed how a sudden aerial explosion can leave a worldwide acoustic trail in scientific sensor networks.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:fad70fcf059b350545668408"
+      },
+      "tags": [
+        "ufo-noises",
+        "sensors",
+        "chelyabinsk"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:1dd171f9262d688457e48286281d9742838b258d2e38bb0df809bdc9d81469e7",
+      "reconciliation_fingerprint": "sha256:8b44d4cd4859dd1306b039aa6a9a1303707bd0b07858c5d0570f0ab186e0b477",
+      "updated_at": "2026-05-31 05:02:02"
+    },
+    {
+      "id": "ufo-noises:page:56d02ca59b9d7d3f9e010621",
+      "logical_id": "ufo-noises-37edd1-acoustic-monitoring-609fad-drone-sound-librarie-0b4be6",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/drone-buzz/",
+      "title": "Drone Buzz",
+      "summary": "Known drone and aircraft recordings give investigators comparison material when a strange buzz or hum is reported overhead.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:fad70fcf059b350545668408"
+      },
+      "tags": [
+        "ufo-noises",
+        "sensors",
+        "drone-buzz"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:609557ac9ec5db7a8746f785e30942b2ff8a8d46512ed891ffca221372e47f99",
+      "reconciliation_fingerprint": "sha256:c9663d9080c20184c25def40bd92f2bd640f33f326d108e5c26c7a9201ecdcc0",
+      "updated_at": "2026-05-31 05:02:14"
+    },
+    {
+      "id": "ufo-noises:page:2673cb56c01244c28c233523",
+      "logical_id": "ufo-noises-37edd1-acoustic-monitoring-609fad:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-acoustic-monitoring/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Sensors.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:fad70fcf059b350545668408"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a0b7dbf69b2154e27e57b00f865a07b768c2b1580ffd534a9344d9eef7436302",
+      "reconciliation_fingerprint": "sha256:df5d73571a4f0506a49e8364ea852e9f576b2e68bda957e8150a98a04a2c0cb9",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:20062a90f04a2351de212a13",
+      "logical_id": "ufo-noises-37edd1-acoustic-monitoring-609fad-infrasound-aerial-ex-42ebec",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/infrasound-e1e753/",
+      "title": "Infrasound",
+      "summary": "Infrasound can record energetic sky events far beyond human hearing, turning distant booms and fireballs into measurable signals.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:fad70fcf059b350545668408"
+      },
+      "tags": [
+        "ufo-noises",
+        "sensors",
+        "infrasound"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:dfe0a73518e758fc7c037b560ba9523dbdeb851b7f0339eeaf74c8fdef89ae9b",
+      "reconciliation_fingerprint": "sha256:93a1d5bb6aea1a3ad3d3750c3ef172ebf30f829786fbb9ee0d4e4634fda33f1b",
+      "updated_at": "2026-05-31 05:02:28"
+    },
+    {
+      "id": "ufo-noises:page:8f047462655c051d8c0a2985",
+      "logical_id": "ufo-noises-37edd1-acoustic-monitoring-609fad-multiband-silent-rep-76413a",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/multi-band/",
+      "title": "Multi Band",
+      "summary": "Some events seem silent because the strongest signal may fall below or above normal hearing rather than inside ordinary audio.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:fad70fcf059b350545668408"
+      },
+      "tags": [
+        "ufo-noises",
+        "sensors",
+        "multi-band"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:bb35e1234a03c95a35a0aff44ca1b505159edcf71c97d859afa98c24a6684143",
+      "reconciliation_fingerprint": "sha256:3d541f5e6dd92e9877ac62a5a04594c94a8c3e474ed81bf92f9ead1c6ffff5f0",
+      "updated_at": "2026-05-31 05:02:40"
+    },
+    {
+      "id": "ufo-noises:page:0a29a6ae2a2458f621032e41",
+      "logical_id": "ufo-noises-37edd1-aircraft-sound-mista-f42cc5",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/aircraft/",
+      "title": "Aircraft",
+      "summary": "Jets, helicopters, drones, and propeller aircraft can sound unfamiliar when distance, weather, and darkness change perception.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "aircraft"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a89845ecbab4f444cf49f41552e3f396a11e8b0f80ade90173807c49accc16b5",
+      "reconciliation_fingerprint": "sha256:ce76d4f5b74e10d3d1001565d5c7d17541297b193dd4bbf0ad04327114788c0f",
+      "updated_at": "2026-05-31 04:56:17"
+    },
+    {
+      "id": "ufo-noises:page:0ce3d4972c9e35ab03518910",
+      "logical_id": "ufo-noises-37edd1-aircraft-sound-mista-f42cc5-drone-buzz-unfamilia-56560f",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/drone-buzz-5ae638/",
+      "title": "Drone Buzz",
+      "summary": "Small drones can sound unlike jets or helicopters, with buzzing tones that shift as multiple rotors constantly adjust.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:0a29a6ae2a2458f621032e41"
+      },
+      "tags": [
+        "ufo-noises",
+        "aircraft",
+        "drone-buzz"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:1b8bccc8db24f9dc2b3d1369c04c74b6fbb3073c4a07d92a11515cacb7913e14",
+      "reconciliation_fingerprint": "sha256:b7b060dac4ff229fbbd23144e66c7881b9ac72e8b964e18d38b08a8941424180",
+      "updated_at": "2026-05-31 05:04:08"
+    },
+    {
+      "id": "ufo-noises:page:6082f48b6cba994d58de9412",
+      "logical_id": "ufo-noises-37edd1-aircraft-sound-mista-f42cc5-flight-track-checks-28eeb4",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/flight-checks/",
+      "title": "Flight Checks",
+      "summary": "Flight activity records can often turn a strange roar or hum into a traceable aircraft, helicopter, cargo flight, or training operation.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:0a29a6ae2a2458f621032e41"
+      },
+      "tags": [
+        "ufo-noises",
+        "aircraft",
+        "flight-checks"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b3e65de87fe389e2e41b560abf93c86af528cbdbc631bb916c4a62be36eb392c",
+      "reconciliation_fingerprint": "sha256:fecda85bb6cfeb8fc90b3d87493a5d8931125ef66b336571635e4a11bfa28939",
+      "updated_at": "2026-05-31 05:02:51"
+    },
+    {
+      "id": "ufo-noises:page:8c3a24e708210d8f8ef41877",
+      "logical_id": "ufo-noises-37edd1-aircraft-sound-mista-f42cc5-head-on-jet-hover-il-bc6b12",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/head-on-jets/",
+      "title": "Head On Jets",
+      "summary": "A jet flying toward a listener can look almost stationary while its delayed roar makes the sighting feel stranger than it is.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:0a29a6ae2a2458f621032e41"
+      },
+      "tags": [
+        "ufo-noises",
+        "aircraft",
+        "head-on-jets"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:934250e076221a1c8e631e7078b8a301dd46987c03154043ec09bfa0f5faa413",
+      "reconciliation_fingerprint": "sha256:46702834400d9fd99ce48554b99c6c005291d097975170eb6954f4d1fabac1d9",
+      "updated_at": "2026-05-31 05:04:18"
+    },
+    {
+      "id": "ufo-noises:page:c82dc5ac7155c5ca69e20b3d",
+      "logical_id": "ufo-noises-37edd1-aircraft-sound-mista-f42cc5-helicopter-blade-sla-9ebeb3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/blade-slap/",
+      "title": "Blade Slap",
+      "summary": "Helicopter rotors can create sharp cracking or knocking sounds that are easy to misread when the aircraft is distant or hidden.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:0a29a6ae2a2458f621032e41"
+      },
+      "tags": [
+        "ufo-noises",
+        "aircraft",
+        "blade-slap"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:46d0634ded4a46df9f6ac661bee109eeaabb8b5f81e82cd7988897914e407b2a",
+      "reconciliation_fingerprint": "sha256:be4363bc5afdac0e5671345565c0cec9d3a5e77c043aaa97f303e3050d2d7a87",
+      "updated_at": "2026-05-31 05:04:29"
+    },
+    {
+      "id": "ufo-noises:page:3c2857b097152b109d1362f6",
+      "logical_id": "ufo-noises-37edd1-aircraft-sound-mista-f42cc5:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-aircraft-sound-mista/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Aircraft.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:0a29a6ae2a2458f621032e41"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ef12924a3bc85756f6b28a0289344230f55217807e9bf497ee01cdb437cc491f",
+      "reconciliation_fingerprint": "sha256:fa0044a053addb5225a27c52064f67a617d691b45c3aaa8d80089218986b5789",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:75314942418dec77b3e6eb03",
+      "logical_id": "ufo-noises-37edd1-aircraft-sound-mista-f42cc5-military-training-ro-4c122d",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/military-roars/",
+      "title": "Military Roars",
+      "summary": "Military aircraft can operate in patterns that feel unusual to nearby residents, especially during night training or unfamiliar routes.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:0a29a6ae2a2458f621032e41"
+      },
+      "tags": [
+        "ufo-noises",
+        "aircraft",
+        "military-roars"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:1a5660d1db23bb0b3e0bb53e765469fafdfd3c36db9d9a21799d27d243e0689e",
+      "reconciliation_fingerprint": "sha256:e82b73b227f9733086b36c0c13f09e2a1bb871c38743142c0e67b5117e08de6e",
+      "updated_at": "2026-05-31 05:04:38"
+    },
+    {
+      "id": "ufo-noises:page:5836a81fa5a86c3dc7d0360e",
+      "logical_id": "ufo-noises-37edd1-atmospheric-acoustic-8ad214",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/atmosphere/",
+      "title": "Atmosphere",
+      "summary": "Wind, humidity, and temperature layers can bend ordinary sounds until they seem to come from the sky.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "atmosphere"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:6479a8511f765427d5d763de6ec7e18ca415983196d125770ff450006ca8dd01",
+      "reconciliation_fingerprint": "sha256:9ccf32f071d9025801dc7439b72f460c37cc3b26f4eccd0bd73a8d42d34ad8bb",
+      "updated_at": "2026-05-31 04:56:27"
+    },
+    {
+      "id": "ufo-noises:page:6d4ef8df0d0dbeda9ae82271",
+      "logical_id": "ufo-noises-37edd1-atmospheric-acoustic-8ad214-acoustic-shadows-sky-789023",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/sound-shadows/",
+      "title": "Sound Shadows",
+      "summary": "Atmospheric bending can create patches where sound skips some listeners but becomes loud for others farther away.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:5836a81fa5a86c3dc7d0360e"
+      },
+      "tags": [
+        "ufo-noises",
+        "atmosphere",
+        "sound-shadows"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7549d39dc7e4851cfaf5eeb5bb0af0f45c709fe8bbfeb420bdbafa255cf7b9f5",
+      "reconciliation_fingerprint": "sha256:cdfd4b859b2a4848c3d434dc41fe96de0f81d8b2389ea8ccaecb7a7ca8b1f7ad",
+      "updated_at": "2026-05-31 05:04:48"
+    },
+    {
+      "id": "ufo-noises:page:f5d67382484ceced7db3182d",
+      "logical_id": "ufo-noises-37edd1-atmospheric-acoustic-8ad214:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-atmospheric-acoustic/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Atmosphere.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:5836a81fa5a86c3dc7d0360e"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:051128c1206920c45e0949a0b7f96e1e98ea238013f8cb32c488ea1a0b580f06",
+      "reconciliation_fingerprint": "sha256:91ba1fb92d85e277cb786586511eb554dfa98bd6dc3cd4a5459a264db0af3f21",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:2c16b48d90b5712f2653c38c",
+      "logical_id": "ufo-noises-37edd1-atmospheric-acoustic-8ad214-low-frequency-hum-sk-75b402",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/low-hums-06eda3/",
+      "title": "Low Hums",
+      "summary": "Deep rumbles and hums can travel efficiently outdoors, making ordinary machinery feel larger, closer, and harder to identify.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:5836a81fa5a86c3dc7d0360e"
+      },
+      "tags": [
+        "ufo-noises",
+        "atmosphere",
+        "low-hums"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:e2dc76042c6a3c03960a5071d8a7d12e6c7db70e8d612b3faab9ce1a969418f4",
+      "reconciliation_fingerprint": "sha256:155b8110bdcb1aa1d3d3554f71fa50b27e6c7bb1b21b86aa4a24fbc1c87068a8",
+      "updated_at": "2026-05-31 05:05:00"
+    },
+    {
+      "id": "ufo-noises:page:52d1ce3b14f50155acbd9c3b",
+      "logical_id": "ufo-noises-37edd1-atmospheric-acoustic-8ad214-misleading-sound-dir-dd84a6",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/direction/",
+      "title": "Direction",
+      "summary": "Refraction, reflections, and wind can scramble the cues people use to locate sound, making ground sources seem airborne.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:5836a81fa5a86c3dc7d0360e"
+      },
+      "tags": [
+        "ufo-noises",
+        "atmosphere",
+        "direction"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:17037eed15e611992aa8e5552c8730ab285054fe9a7f73c60f85a1c4f2442bb4",
+      "reconciliation_fingerprint": "sha256:649f676e53244ee536f49721e8202cbebb24a344de5bf81107a6da19599be2a3",
+      "updated_at": "2026-05-31 05:05:11"
+    },
+    {
+      "id": "ufo-noises:page:af6449d59bff5c74889a7920",
+      "logical_id": "ufo-noises-37edd1-atmospheric-acoustic-8ad214-nighttime-mechanical-ff36ae",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/night-drones/",
+      "title": "Night Drones",
+      "summary": "Calm, stable night air can carry low mechanical noise across long distances while hiding the source from view.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:5836a81fa5a86c3dc7d0360e"
+      },
+      "tags": [
+        "ufo-noises",
+        "atmosphere",
+        "night-drones"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:768528f45809f67e8d75b6d434ee47b139e11908e9bcff3564d97cc6132a6fbe",
+      "reconciliation_fingerprint": "sha256:2b55c6837e4eb68fc897631296a57f6c5996e98e0d6dbb7ad13714515c50c488",
+      "updated_at": "2026-05-31 05:05:21"
+    },
+    {
+      "id": "ufo-noises:page:e162b8ce0fe0ab7ebd9b9a02",
+      "logical_id": "ufo-noises-37edd1-atmospheric-acoustic-8ad214-temperature-inversio-1a83fb",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/inversions/",
+      "title": "Inversions",
+      "summary": "Cold air near the ground can bend ordinary sound back toward listeners until roads, trains, or factories seem to be in the sky.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:5836a81fa5a86c3dc7d0360e"
+      },
+      "tags": [
+        "ufo-noises",
+        "atmosphere",
+        "inversions"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b0b6895b3c006d9018da5479a78a80a61157c2845333732c3fd6fefbb58b5024",
+      "reconciliation_fingerprint": "sha256:4092478bacacea1de4a116e7e71e1ab3483d73a6fe0f6e76a58537e4214c5f76",
+      "updated_at": "2026-05-31 05:05:33"
+    },
+    {
+      "id": "ufo-noises:page:334f39d1bcee35421791bea8",
+      "logical_id": "ufo-noises-37edd1-buzzing-electrical-c-877b01",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/buzzing/",
+      "title": "Buzzing",
+      "summary": "Buzzing UFO reports often resemble transformers, insects, or electrical equipment, making them vivid but difficult to verify.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "buzzing"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:66fb77813106b334040fdcd78e096c74dbc003f8d9406e53cb630049998fa4d2",
+      "reconciliation_fingerprint": "sha256:558d871b20e966fcbe51dd5cbe143f3eb09e7d83c63393db8e39c6f1f84bb03d",
+      "updated_at": "2026-05-31 04:56:36"
+    },
+    {
+      "id": "ufo-noises:page:683675c0326b1803a343852e",
+      "logical_id": "ufo-noises-37edd1-buzzing-electrical-c-877b01-buzz-before-sighting-59d26c",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/before-sight/",
+      "title": "Before Sight",
+      "summary": "Reports where buzzing comes before a visible object raise useful questions about memory, anticipation, direction, and environmental sound sources.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:334f39d1bcee35421791bea8"
+      },
+      "tags": [
+        "ufo-noises",
+        "buzzing",
+        "before-sight"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b22aa5f08a4d8cf21b1bc8f7b8b92f4e3478fe7f42c01809ab7ebb37c6091ea4",
+      "reconciliation_fingerprint": "sha256:022e39f8d2b0841d3f2c3109765cd8a92b972da6313274c46c2fdc48ca09b2ce",
+      "updated_at": "2026-05-31 05:05:42"
+    },
+    {
+      "id": "ufo-noises:page:c71294a3bff89b0f79cd3cd7",
+      "logical_id": "ufo-noises-37edd1-buzzing-electrical-c-877b01-buzzing-body-sensati-279775",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/body-effects/",
+      "title": "Body Effects",
+      "summary": "Chest vibration, tingling, ear pressure, and internal buzzing claims are vivid but difficult to separate from stress, acoustics, and expectation effects.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:334f39d1bcee35421791bea8"
+      },
+      "tags": [
+        "ufo-noises",
+        "buzzing",
+        "body-effects"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7ebbf9b6e548f28472da95f3eda51fd01ebbaeead483a28a0849f55f1c1a09f0",
+      "reconciliation_fingerprint": "sha256:86c5c2c684608d81dc8263a145aa6f732d943b0e7850b6928db8a27f78e3be10",
+      "updated_at": "2026-05-31 05:05:52"
+    },
+    {
+      "id": "ufo-noises:page:81a1e860db25b9414ae1e874",
+      "logical_id": "ufo-noises-37edd1-buzzing-electrical-c-877b01:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-buzzing-electrical-c/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Buzzing.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:334f39d1bcee35421791bea8"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:cffcc2f0f2482a62c40fe2ff1e844e65d968356115cf0ce2a594046e06d2c9cb",
+      "reconciliation_fingerprint": "sha256:cc790f749216705a7849b2652eb1d6b6664daa98e96c58eb681845cfdd9889fb",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:11f50d1934ceef542045ec83",
+      "logical_id": "ufo-noises-37edd1-buzzing-electrical-c-877b01-microwave-auditory-b-56f58a",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/microwave-effect/",
+      "title": "Microwave Effect",
+      "summary": "The microwave auditory effect is real science, but applying it to UFO buzzing claims usually outruns the evidence available in case reports.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:334f39d1bcee35421791bea8"
+      },
+      "tags": [
+        "ufo-noises",
+        "buzzing",
+        "microwave-effect"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7a3fdb34fd28f49d9fc46350cc0db9270a8d6b35bbde1462e50a7190dacf2f68",
+      "reconciliation_fingerprint": "sha256:35a2f7a43e9c34e81453d743bbcf2e56c96ef9f94296d7e4b062fbfbfc56129d",
+      "updated_at": "2026-05-31 05:06:01"
+    },
+    {
+      "id": "ufo-noises:page:33f9b7c42c612dfaad064248",
+      "logical_id": "ufo-noises-37edd1-buzzing-electrical-c-877b01-pascagoula-sound-cla-323878",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/pascagoula/",
+      "title": "Pascagoula",
+      "summary": "The Pascagoula case shows how unusual noise details can become more prominent as a famous UFO story is retold and debated.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:334f39d1bcee35421791bea8"
+      },
+      "tags": [
+        "ufo-noises",
+        "buzzing",
+        "pascagoula"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ca847e8b996b157ca551b208e3624b38c089fcc0ce5723830e59e5512e3343d6",
+      "reconciliation_fingerprint": "sha256:160bd081948f772cbd3733faed40bd4aa216c09175688c11de5f655755c46192",
+      "updated_at": "2026-05-31 05:06:10"
+    },
+    {
+      "id": "ufo-noises:page:9deda052ba9e6887d376d57b",
+      "logical_id": "ufo-noises-37edd1-buzzing-electrical-c-877b01-transformer-buzz-con-29f7c0",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/source-confusion/",
+      "title": "Source Confusion",
+      "summary": "Transformer-like UFO buzzing can sound specific while still hiding ordinary sources such as substations, power lines, machinery, or reflected hums.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:334f39d1bcee35421791bea8"
+      },
+      "tags": [
+        "ufo-noises",
+        "buzzing",
+        "source-confusion"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:aa7f5a283f61fafed0288c8b7297d0e99b73e3085f4acb4d082cc4b1a809ae3c",
+      "reconciliation_fingerprint": "sha256:7abd2dad84439a4f34396c14d7e3663b958c015361037df35947049c447f3118",
+      "updated_at": "2026-05-31 05:06:19"
+    },
+    {
+      "id": "ufo-noises:page:1fa0a3f8b17a456d56218741",
+      "logical_id": "ufo-noises-37edd1-humming-ufo-reports-8a7cf2",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/humming/",
+      "title": "Humming",
+      "summary": "Low hums are among the most common reported UFO sounds, but they can point to machinery, aircraft, atmosphere, or memory effects.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "humming"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:e3e6623a5783f73db9b0d192bf9ad1fb4047efecc7520c5ec9558d27c9968565",
+      "reconciliation_fingerprint": "sha256:f6eebd504a9d72315a12a3c8efc24db4384d1ec81a1dc32583c1c6944b313cae",
+      "updated_at": "2026-05-31 04:56:09"
+    },
+    {
+      "id": "ufo-noises:page:7fd1136e3ca5fce1b8d9ac08",
+      "logical_id": "ufo-noises-37edd1-humming-ufo-reports-8a7cf2-aircraft-sound-effec-3360c4",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/aircraft-sounds/",
+      "title": "Aircraft Sounds",
+      "summary": "Weather, distance and nighttime viewing can make ordinary aircraft sound detached from where they appear in the sky.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:1fa0a3f8b17a456d56218741"
+      },
+      "tags": [
+        "ufo-noises",
+        "humming",
+        "aircraft-sounds"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c7444645dcb3b1fd7e6c1de5136009cac3df35eec0c24bb8504f3b2e7de88db9",
+      "reconciliation_fingerprint": "sha256:db8659b067eaa9baf95766bf569deef88b2a6314f774ccbd871c4795cd17a759",
+      "updated_at": "2026-05-31 05:03:01"
+    },
+    {
+      "id": "ufo-noises:page:8f89d79856acf35fd5d34191",
+      "logical_id": "ufo-noises-37edd1-humming-ufo-reports-8a7cf2:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-humming-ufo-reports/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Humming.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:1fa0a3f8b17a456d56218741"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:801abcbea0d4ea45b6a3ab030c852cf44a284a47162e8cd5374de4ad48392569",
+      "reconciliation_fingerprint": "sha256:79eb0584f5f1a843e30f901ab77e454f275cfd0aa7045a4bade4fb93614bf142",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:c09cde9ddb9ad347edeecda9",
+      "logical_id": "ufo-noises-37edd1-humming-ufo-reports-8a7cf2-industrial-hums-f64aa2",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/industrial-hums/",
+      "title": "Industrial Hums",
+      "summary": "Factories, generators and infrastructure can create low drones that witnesses may connect to unusual lights or objects overhead.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:1fa0a3f8b17a456d56218741"
+      },
+      "tags": [
+        "ufo-noises",
+        "humming",
+        "industrial-hums"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c41c0073c17e6364e1ed00ddc10b9bb5aa3746eb5748815a150c18e10bee7f59",
+      "reconciliation_fingerprint": "sha256:c2d860089040040749aa3e83da84788feb7678f5b9680a9c32a7d9124bad7169",
+      "updated_at": "2026-05-31 04:58:03"
+    },
+    {
+      "id": "ufo-noises:page:7d322109637b985148f4b25e",
+      "logical_id": "ufo-noises-37edd1-humming-ufo-reports-8a7cf2-low-frequency-hums-24de02",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/low-hums/",
+      "title": "Low Hums",
+      "summary": "Low-frequency sound can seem directionless, physical and strangely hard to verify, which makes it easy to attach to UFO sightings.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:1fa0a3f8b17a456d56218741"
+      },
+      "tags": [
+        "ufo-noises",
+        "humming",
+        "low-hums"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:672cff85a4ad6abe7661cbfea48f8a694e369a8291714c58e7d18e3793646dc6",
+      "reconciliation_fingerprint": "sha256:99c4263a02464fd950c861bab12a4fe97a6351042b4895f83152074330e845ae",
+      "updated_at": "2026-05-31 04:58:51"
+    },
+    {
+      "id": "ufo-noises:page:ee1e2c9a81fdfab981f1d257",
+      "logical_id": "ufo-noises-37edd1-humming-ufo-reports-8a7cf2-nicap-california-hum-137be7",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/nicap-case/",
+      "title": "NICAP Case",
+      "summary": "The 1957 California triangular-object report shows how witness status, object shape and sound detail can make a hum case more notable.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:1fa0a3f8b17a456d56218741"
+      },
+      "tags": [
+        "ufo-noises",
+        "humming",
+        "nicap-case"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ccab598cf936f0253195b5d7f7ddc71b68b13798e2097f3a097d16d6c04620e5",
+      "reconciliation_fingerprint": "sha256:a7ae62b2f5a602d713b4c83195052f3704719011977377e49e3c7cf8a6e907a5",
+      "updated_at": "2026-05-31 05:03:09"
+    },
+    {
+      "id": "ufo-noises:page:464fd0c3fc1b86520d46f8c6",
+      "logical_id": "ufo-noises-37edd1-humming-ufo-reports-8a7cf2-verify-ufo-hum-89582c",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/verify-hums/",
+      "title": "Verify Hums",
+      "summary": "A hum becomes more useful evidence when recordings, multiple witnesses, animal reactions or aviation data support the same event.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:1fa0a3f8b17a456d56218741"
+      },
+      "tags": [
+        "ufo-noises",
+        "humming",
+        "verify-hums"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:6bdd8d48a4ced6de394043f3f999e2e30595ffc4cb9da5fe292a20855050c84a",
+      "reconciliation_fingerprint": "sha256:75a4d1855fa75a7f788249ce0694b60090643bbad689a5b801c322cd43d2843d",
+      "updated_at": "2026-05-31 04:57:46"
+    },
+    {
+      "id": "ufo-noises:page:e43fb613d743840763ae236d",
+      "logical_id": "ufo-noises-37edd1:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-index/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on UFO Noises.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:132b93902556d171b38650bba6ba3a7873449894f7806c0edbd0aa827fd4ba7b",
+      "reconciliation_fingerprint": "sha256:f2e9a214bba801ec831cf4e8003ba50bf33c26c28941d94a8bfa0faa082d74f3",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:3e8002d731180e28831fbec3",
+      "logical_id": "ufo-noises-37edd1-industrial-noise-mis-f8566f",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/industry/",
+      "title": "Industry",
+      "summary": "Factories, construction, substations, and heavy machinery can create humming or metallic sounds that seem mysterious at night.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "industry"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:faf39a376991e92f705b90e62495ecd59f0fa719fadac3313af4f80fe3c14b5b",
+      "reconciliation_fingerprint": "sha256:dd3ff97303aeb498cda5901ccf3882d63ed061508050ee0bbcc029042526dfcd",
+      "updated_at": "2026-05-31 04:56:46"
+    },
+    {
+      "id": "ufo-noises:page:ed54cede1e083abf450e5e9d",
+      "logical_id": "ufo-noises-37edd1-industrial-noise-mis-f8566f-bristol-hum-industri-57315c",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/bristol-hum/",
+      "title": "Bristol Hum",
+      "summary": "The Bristol Hum shows how a famous mystery sound can remain disputed while still pointing investigators toward industry.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:3e8002d731180e28831fbec3"
+      },
+      "tags": [
+        "ufo-noises",
+        "industry",
+        "bristol-hum"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:38b11c234c9bc0e0ef8f670f2b58538a38ab99e0299483a0625d7ea6644e6219",
+      "reconciliation_fingerprint": "sha256:38dd46d609328c64b51f20f298e715c6625d71e53b653daa8f78e10542832dd7",
+      "updated_at": "2026-05-31 05:06:26"
+    },
+    {
+      "id": "ufo-noises:page:97999d22606ef90008ace9dc",
+      "logical_id": "ufo-noises-37edd1-industrial-noise-mis-f8566f-factory-fan-hums-3fab2b",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/factory-fans/",
+      "title": "Factory Fans",
+      "summary": "Large ventilation fans can turn ordinary industrial airflow into a steady drone that sounds detached from its source.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:3e8002d731180e28831fbec3"
+      },
+      "tags": [
+        "ufo-noises",
+        "industry",
+        "factory-fans"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:91493f458edc65e8c6ac1f1f98c9cbf6a6f5d8438de06ee0818b0b18697403a7",
+      "reconciliation_fingerprint": "sha256:bf4961f5d0d28f61302806b911d4a63155934cd4236dffdb384c013bc90f88e0",
+      "updated_at": "2026-05-31 04:58:23"
+    },
+    {
+      "id": "ufo-noises:page:f7abf2c2164183c5a4d219ce",
+      "logical_id": "ufo-noises-37edd1-industrial-noise-mis-f8566f:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-industrial-noise-mis/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Industry.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:3e8002d731180e28831fbec3"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:d8957feb102db9264057d408f3f7c65bf1302e1fff885030bbf336d4a999acd8",
+      "reconciliation_fingerprint": "sha256:f811fc7f4451ef6371017d6f8f0f4c76298f7a0ac78a0dcfe0eac4e341240f83",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:c1a4ae942b3a3fb142e59fd1",
+      "logical_id": "ufo-noises-37edd1-industrial-noise-mis-f8566f-omagh-hum-source-pro-58cb86",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/omagh-hum/",
+      "title": "Omagh Hum",
+      "summary": "The Omagh Hum highlights the gap between finding a probable industrial source and proving it well enough to satisfy everyone.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:3e8002d731180e28831fbec3"
+      },
+      "tags": [
+        "ufo-noises",
+        "industry",
+        "omagh-hum"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c102760f61a04b8ab877b3d747d066d606cee86200cafff30d897be74feda2df",
+      "reconciliation_fingerprint": "sha256:05a44b170efef30709f23da2ddbcc00b7f6f77100ea1acbb549b3fc00b287588",
+      "updated_at": "2026-05-31 05:06:34"
+    },
+    {
+      "id": "ufo-noises:page:0165d8675a5cbfa4a03b4a39",
+      "logical_id": "ufo-noises-37edd1-industrial-noise-mis-f8566f-pipeline-mechanical-a2c6c2",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/pipelines/",
+      "title": "Pipelines",
+      "summary": "Pipeline pumps, compressors, and gas infrastructure can generate deep vibrations that travel through air and ground.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:3e8002d731180e28831fbec3"
+      },
+      "tags": [
+        "ufo-noises",
+        "industry",
+        "pipelines"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:8c53d3e7dc6d136d393f0dc6f5f60fba1ff074f79f570fad1f50844ea96a7943",
+      "reconciliation_fingerprint": "sha256:bf9535f5bfbb2e8baac84caa5025de56ecf2b70d323ce4541dedd0a75d10a4d0",
+      "updated_at": "2026-05-31 05:03:18"
+    },
+    {
+      "id": "ufo-noises:page:6288422f8ad47633b1e358f8",
+      "logical_id": "ufo-noises-37edd1-industrial-noise-mis-f8566f-transformer-hum-sky-0a8cc4",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/transformer-hum/",
+      "title": "Transformer Hum",
+      "summary": "Electrical substations can produce a constant buzz or hum that listeners may misread as a hovering object.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:3e8002d731180e28831fbec3"
+      },
+      "tags": [
+        "ufo-noises",
+        "industry",
+        "transformer-hum"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:66d4042fbbc1449aab32deb2ca8fa3d91865e410df8bbb829cd77984e77ce513",
+      "reconciliation_fingerprint": "sha256:cfd73a6108b70e2c75bf1b2dd774c5b7bd7fbe8054123fd615cd222392e2bfb6",
+      "updated_at": "2026-05-31 05:03:27"
+    },
+    {
+      "id": "ufo-noises:page:e31d671d6ea6835d09ccafa9",
+      "logical_id": "ufo-noises-37edd1-infrasound-ufo-sensa-380040",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/infrasound/",
+      "title": "Infrasound",
+      "summary": "Infrasound may help explain some reports of pressure, unease, vibration, or humming without a clear audible source.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "infrasound"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2bc5a09b459e524d887ecd46099fda19f6bbfe8700ace05bef2270c2c21099ce",
+      "reconciliation_fingerprint": "sha256:5bd698320f72765867ac68a17622791709eed3cef4fb158dd950769e05ab2199",
+      "updated_at": "2026-05-31 04:56:56"
+    },
+    {
+      "id": "ufo-noises:page:7a912cfe1b15377b3ff5f300",
+      "logical_id": "ufo-noises-37edd1-infrasound-ufo-sensa-380040-checking-ufo-vibrati-231429",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/check-clues/",
+      "title": "Check clues",
+      "summary": "A practical check can separate low-frequency sound clues from memory gaps, visual assumptions, and unrelated sources.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:e31d671d6ea6835d09ccafa9"
+      },
+      "tags": [
+        "ufo-noises",
+        "infrasound",
+        "check-clues"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:679801b2ceffebe66d6463fcbef802f7ad0fd7b4c53980212aa26aaeb649d952",
+      "reconciliation_fingerprint": "sha256:13ada8f9789f50bd2d5eb6de680fbf90ab2b1144d86bc8daf36c43698258bf21",
+      "updated_at": "2026-05-31 05:06:48"
+    },
+    {
+      "id": "ufo-noises:page:e3d5e6e3119aade1b9249031",
+      "logical_id": "ufo-noises-37edd1-infrasound-ufo-sensa-380040-chest-pressure-infra-f79c05",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/chest-pressure/",
+      "title": "Chest pressure",
+      "summary": "Low-frequency sound may help explain why some witnesses report chest pressure, resonance, or a felt presence during sightings.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:e31d671d6ea6835d09ccafa9"
+      },
+      "tags": [
+        "ufo-noises",
+        "infrasound",
+        "chest-pressure"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:01a192c9af35f075412ac56aa10b74ecd4ddcb05f4d5ef0442c303430e60fe3b",
+      "reconciliation_fingerprint": "sha256:e893c2cff540c93cabd706dcbaa4e4ce8c3d62254694a54f37aebbbf57a799bf",
+      "updated_at": "2026-05-31 05:06:56"
+    },
+    {
+      "id": "ufo-noises:page:629f7609cfb32585afe000aa",
+      "logical_id": "ufo-noises-37edd1-infrasound-ufo-sensa-380040-directionless-ufo-hu-251f19",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/hard-to-locate/",
+      "title": "Hard to locate",
+      "summary": "Long low-frequency wavelengths can make a hum feel present everywhere while leaving witnesses unsure where it is coming from.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:e31d671d6ea6835d09ccafa9"
+      },
+      "tags": [
+        "ufo-noises",
+        "infrasound",
+        "hard-to-locate"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ef41e2ef126d7625e41a664ee41c9871160deed4ff870e9d989b27d253687500",
+      "reconciliation_fingerprint": "sha256:f64e7a0076bac61690dc72f60d9c0cc79c202e10e05219040c1fc390884c2a03",
+      "updated_at": "2026-05-31 05:07:06"
+    },
+    {
+      "id": "ufo-noises:page:b3ecea34469b872fdab8d6c6",
+      "logical_id": "ufo-noises-37edd1-infrasound-ufo-sensa-380040-environmental-hum-an-c553e2",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/hum-analogues/",
+      "title": "Hum analogues",
+      "summary": "Persistent hum reports such as the Taos Hum show how low-frequency noise can blur the line between hearing, vibration, and discomfort.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:e31d671d6ea6835d09ccafa9"
+      },
+      "tags": [
+        "ufo-noises",
+        "infrasound",
+        "hum-analogues"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b505746f9d65b120c99acf4287bee67ea2f48963adaac87d7243c3ccba655166",
+      "reconciliation_fingerprint": "sha256:af31cd7a0a364f3a718339e85fbd0ab87f87855e045267b98cadaae6c57fa089",
+      "updated_at": "2026-05-31 05:07:15"
+    },
+    {
+      "id": "ufo-noises:page:f5ca738d423348d28591284b",
+      "logical_id": "ufo-noises-37edd1-infrasound-ufo-sensa-380040:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-infrasound-ufo-sensa/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Infrasound.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:e31d671d6ea6835d09ccafa9"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:3a4d4666f5ffc74b22d3cf1343f2123efc328f212e9a3b040556eec3f22f108d",
+      "reconciliation_fingerprint": "sha256:b956754f379edae831f30a4d97a6255a3688ebac87c6bd550a21160f47d6cbe1",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:2564b948d2609834fa88096d",
+      "logical_id": "ufo-noises-37edd1-infrasound-ufo-sensa-380040-natural-infrasound-s-0f43fe",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/natural-sources/",
+      "title": "Natural sources",
+      "summary": "Storms, wind, ocean waves, earthquakes, and meteors can create low-frequency sensations that may coincide with unusual aerial reports.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:e31d671d6ea6835d09ccafa9"
+      },
+      "tags": [
+        "ufo-noises",
+        "infrasound",
+        "natural-sources"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7ba9af0bbdb6539a8877dc3a71b481eb48ca9d5e16e0e418cefc4c09a27df472",
+      "reconciliation_fingerprint": "sha256:7aa364f13e98815789203489b81abdfce2cb3c59acd14e364e93c78496689779",
+      "updated_at": "2026-05-31 05:07:26"
+    },
+    {
+      "id": "ufo-noises:page:238599004815ab0586c137e2",
+      "logical_id": "ufo-noises-37edd1-mystery-booms-ufo-329ad9",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/booms/",
+      "title": "Booms",
+      "summary": "Sudden booms can trigger UFO speculation, but meteors, aircraft, explosions, and weather may all be plausible sources.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "booms"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:d8c2e0596ec31c76195249e9a114253c724e4d5dc9d2a43da156b66c85943ca7",
+      "reconciliation_fingerprint": "sha256:70c85266343716dd564db0ceedfc278b816ecfc95dc3aadd003f5b5f912ba783",
+      "updated_at": "2026-05-31 04:55:12"
+    },
+    {
+      "id": "ufo-noises:page:b0733996d296573815d77b3f",
+      "logical_id": "ufo-noises-37edd1-mystery-booms-ufo-329ad9-boom-timing-clues-51277e",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/timing-clues/",
+      "title": "Timing Clues",
+      "summary": "The order of flashes, shaking, calls, and official checks can reveal whether a boom fits a meteor, aircraft, blast, or rumor cascade.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:238599004815ab0586c137e2"
+      },
+      "tags": [
+        "ufo-noises",
+        "booms",
+        "timing-clues"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:351c818f70f68ddeac2e715e88008e0179d7a34524bcfa8811c5ad004b11662a",
+      "reconciliation_fingerprint": "sha256:d9a73851c2aac254ddf1ed5a42bc7d59ad5ecca6c89ceabc02e66fd7403e2ff2",
+      "updated_at": "2026-05-31 04:58:15"
+    },
+    {
+      "id": "ufo-noises:page:129caa8965b54643d942f18e",
+      "logical_id": "ufo-noises-37edd1-mystery-booms-ufo-329ad9:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-mystery-booms-ufo/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Booms.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:238599004815ab0586c137e2"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c4963465d455a00c97968138194c6c4216bc8ce50ea7d4625314c34f6e5162c2",
+      "reconciliation_fingerprint": "sha256:1b9db0b2e147bea6512e9f51455f626ebd38da1556eed2a112c4b8a11974b2c7",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:6d2a3d5c43c87aec06b48baf",
+      "logical_id": "ufo-noises-37edd1-mystery-booms-ufo-329ad9-industrial-blast-boo-813862",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/industrial-blasts/",
+      "title": "Industrial Blasts",
+      "summary": "Quarries, construction sites, and industrial accidents can create booms that seem airborne when the source is far from witnesses.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:238599004815ab0586c137e2"
+      },
+      "tags": [
+        "ufo-noises",
+        "booms",
+        "industrial-blasts"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:878caac460fa3ba059bea172453e9893ce5e7537060682c5d6881361024c84f4",
+      "reconciliation_fingerprint": "sha256:c3d83103d65a01fc7af8b0a3653b3b622b6f8e3a756da9946c1d2ad486fb9314",
+      "updated_at": "2026-05-31 04:58:59"
+    },
+    {
+      "id": "ufo-noises:page:26a25aa9c5301e24bc159b2c",
+      "logical_id": "ufo-noises-37edd1-mystery-booms-ufo-329ad9-meteor-airburst-boom-b77f08",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/meteor-booms/",
+      "title": "Meteor Booms",
+      "summary": "A meteor can explode high in the atmosphere, creating a delayed boom that reaches witnesses even when no fireball was seen.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:238599004815ab0586c137e2"
+      },
+      "tags": [
+        "ufo-noises",
+        "booms",
+        "meteor-booms"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:fff4af0c2d283cefe8eab3b7c903f019b75b2890141f1e2540992ef65876e0f7",
+      "reconciliation_fingerprint": "sha256:c5ffee390bf6a64467c9009485013708b105e3263e6f6221fe71334fafdf83d6",
+      "updated_at": "2026-05-31 04:59:12"
+    },
+    {
+      "id": "ufo-noises:page:89e3bc398e9558755b0a4f93",
+      "logical_id": "ufo-noises-37edd1-mystery-booms-ufo-329ad9-seneca-guns-folklore-92e49e",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/seneca-guns/",
+      "title": "Seneca Guns",
+      "summary": "Centuries-old coastal boom stories show how the same strange sounds can be reinterpreted as folklore, artillery, or UFO activity.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:238599004815ab0586c137e2"
+      },
+      "tags": [
+        "ufo-noises",
+        "booms",
+        "seneca-guns"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:52a1676cde9e324f955c176ecf810acb2a1138fd3a6cfa6f4a32abbf4dd55844",
+      "reconciliation_fingerprint": "sha256:925f7ee5f9e7c79a1da881a4c6b428f095db87f8340459ec4a208d9d80715ae5",
+      "updated_at": "2026-05-31 04:59:20"
+    },
+    {
+      "id": "ufo-noises:page:a18eba6e668e9b6f7e9d172e",
+      "logical_id": "ufo-noises-37edd1-mystery-booms-ufo-329ad9-sonic-booms-invisibl-a18379",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/sonic-booms-f17119/",
+      "title": "Sonic Booms",
+      "summary": "Fast aircraft can leave shockwaves that rattle windows across wide areas while the plane itself remains unseen or unconfirmed.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:238599004815ab0586c137e2"
+      },
+      "tags": [
+        "ufo-noises",
+        "booms",
+        "sonic-booms"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:bac9822602237059f8ed15d4ac45c1274f856f7aa25678263a68439659a5208e",
+      "reconciliation_fingerprint": "sha256:b3ffdc1477c9b149b3d86ad70014f3f77c3d8662c57cb55f4a34c889a291c273",
+      "updated_at": "2026-05-31 04:59:29"
+    },
+    {
+      "id": "ufo-noises:page:e00c5b1e4c0b88aad9552093",
+      "logical_id": "ufo-noises-37edd1-record-check-ufo-noi-a48df5",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/record-it/",
+      "title": "Record It",
+      "summary": "A careful recording, location notes, timing, and comparison checks can make an unusual sound report much more useful.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "record-it"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b9d932f12baa2c0e796645dbc1c4f17a7b1a71bce6bfd27de33e927354c5e5ad",
+      "reconciliation_fingerprint": "sha256:d20c9cdcf6f7d8ae345ac2d0fe4563f66db7dbae779439426ede37ee784bacd2",
+      "updated_at": "2026-05-31 04:57:07"
+    },
+    {
+      "id": "ufo-noises:page:8820cc96f64ce770b17a821a",
+      "logical_id": "ufo-noises-37edd1-record-check-ufo-noi-a48df5-independent-witness-94dcb1",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/witness-notes/",
+      "title": "Witness Notes",
+      "summary": "Separate witness notes can preserve genuine agreements before conversation turns several memories into one shared story.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:e00c5b1e4c0b88aad9552093"
+      },
+      "tags": [
+        "ufo-noises",
+        "record-it",
+        "witness-notes"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a3f2bdd22760dd28fc29af17430d8d4457a68c5cc3fe50be6abb1f824003a1c4",
+      "reconciliation_fingerprint": "sha256:6c60b34adc1f7401e5e6e3693dc2bcd4b029723ebac92e808dadf1560e79adc3",
+      "updated_at": "2026-05-31 05:03:37"
+    },
+    {
+      "id": "ufo-noises:page:deabcd59d1890323f1a2602b",
+      "logical_id": "ufo-noises-37edd1-record-check-ufo-noi-a48df5:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-record-check-ufo-noi/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Record It.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:e00c5b1e4c0b88aad9552093"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:6bb79bb95352692d256ccc689445a6826625b371c0dfa3dd70bc9e910813b04d",
+      "reconciliation_fingerprint": "sha256:bb0292af5bcdb084f63e2989a1f9e1310b8beb6e8187c8be8039fa9770348db6",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:e16e44ff0d5397818625139c",
+      "logical_id": "ufo-noises-37edd1-record-check-ufo-noi-a48df5-phone-recording-mist-0f37d7",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/phone-audio/",
+      "title": "Phone Audio",
+      "summary": "Small recording choices can decide whether a strange aerial sound remains useful evidence or becomes impossible to check later.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:e00c5b1e4c0b88aad9552093"
+      },
+      "tags": [
+        "ufo-noises",
+        "record-it",
+        "phone-audio"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b0f83850c07816f2976519f87bf80b1d19c30cf501173e6197a2d0396c9912e6",
+      "reconciliation_fingerprint": "sha256:87cd14697efe37031acdf3b059834e579ca9c8e8e3f68334e74e66b054a6207a",
+      "updated_at": "2026-05-31 05:07:38"
+    },
+    {
+      "id": "ufo-noises:page:48bee5d8a8605fd7ad0964b4",
+      "logical_id": "ufo-noises-37edd1-record-check-ufo-noi-a48df5-spectrogram-clues-e63753",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/spectrograms/",
+      "title": "Spectrograms",
+      "summary": "A spectrogram can reveal pulses, bands and pitch changes that the ear may miss in a strange sky-noise recording.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:e00c5b1e4c0b88aad9552093"
+      },
+      "tags": [
+        "ufo-noises",
+        "record-it",
+        "spectrograms"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:09ed5715b48fae7c1adbb1ab04510368b5c08a1399343cd1623a16fab6321197",
+      "reconciliation_fingerprint": "sha256:1e9c0e7f0118e4b8649b5f15ff7124dcaacb7ec22db0aa83aa60884e25f0bfa6",
+      "updated_at": "2026-05-31 04:59:40"
+    },
+    {
+      "id": "ufo-noises:page:fb0e02d530f4ba81011a619a",
+      "logical_id": "ufo-noises-37edd1-record-check-ufo-noi-a48df5-spoken-timeline-note-de6bb2",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/timeline-notes/",
+      "title": "Timeline Notes",
+      "summary": "Narrating time, direction and visible clues while recording can turn a confusing noise clip into a usable timeline.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:e00c5b1e4c0b88aad9552093"
+      },
+      "tags": [
+        "ufo-noises",
+        "record-it",
+        "timeline-notes"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7e50c4ea8ea5252a5d6ff02733eea7a460fdfef76b5a4886a13d054a9a211a25",
+      "reconciliation_fingerprint": "sha256:6f6da102c85f0a95764db5f24041ad2f86c29971d41dcda47d9851d4881031af",
+      "updated_at": "2026-05-31 05:07:49"
+    },
+    {
+      "id": "ufo-noises:page:f94e5d56766c01371efc958f",
+      "logical_id": "ufo-noises-37edd1-record-check-ufo-noi-a48df5-weather-notes-sky-no-5d5168",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/weather-notes/",
+      "title": "Weather Notes",
+      "summary": "Wind, rain, cloud and calm conditions can change how far a noise travels and how nearby it seems.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:e00c5b1e4c0b88aad9552093"
+      },
+      "tags": [
+        "ufo-noises",
+        "record-it",
+        "weather-notes"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:48a35d330cd75049e033051feb2202d219a49af210a64729da11ca73b8bde437",
+      "reconciliation_fingerprint": "sha256:aadfa29456eddf2fc44da0998491d5639c2334179a25702df155fd4462797f8f",
+      "updated_at": "2026-05-31 05:07:59"
+    },
+    {
+      "id": "ufo-noises:page:fc703ded477fbf5c6bacb0d4",
+      "logical_id": "ufo-noises-37edd1-silent-ufo-sightings-76971d",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/silence/",
+      "title": "Silence",
+      "summary": "Silent UFO reports raise a simple question: was the object truly quiet, or was distance, wind, or expectation hiding the sound?",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "silence"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:10593c1aba272c1132e5858a2dbc8a52fa92c596eb131059c09c246edf06b173",
+      "reconciliation_fingerprint": "sha256:6d150d38b891927af0bc75e3cc8361509c096078e2dde9a023a9e57d15b106e9",
+      "updated_at": "2026-05-31 04:57:15"
+    },
+    {
+      "id": "ufo-noises:page:d6ce33c34e7ac53f90557fd8",
+      "logical_id": "ufo-noises-37edd1-silent-ufo-sightings-76971d-belgian-triangle-sil-15e601",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/belgian-triangles/",
+      "title": "Belgian Triangles",
+      "summary": "The Belgian UFO wave made silent triangular craft famous, but its evidence also shows how hoaxes and misidentifications complicate the story.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:fc703ded477fbf5c6bacb0d4"
+      },
+      "tags": [
+        "ufo-noises",
+        "silence",
+        "belgian-triangles"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:f757ccb4c9975e69e832e47c00ba0b855c135d7c11cb0fb18d12945d78c3f3e3",
+      "reconciliation_fingerprint": "sha256:8a443edc48d8d603ce70d3d50a3257f8ee64982959bf4101c3784349c4bb423e",
+      "updated_at": "2026-05-31 05:08:11"
+    },
+    {
+      "id": "ufo-noises:page:96243e964d159736c00a37b4",
+      "logical_id": "ufo-noises-37edd1-silent-ufo-sightings-76971d-car-interior-sound-m-1c1b4f",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/inside-cars/",
+      "title": "Inside Cars",
+      "summary": "A witness inside a vehicle may miss or misread outside sound, especially when wind, engine noise and glass reduce faint aircraft noise.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:fc703ded477fbf5c6bacb0d4"
+      },
+      "tags": [
+        "ufo-noises",
+        "silence",
+        "inside-cars"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:15601f3cb40287d1cf979c3c71d13a0422d8c73b86516d67945b4a48bc9e4b06",
+      "reconciliation_fingerprint": "sha256:311853358c8db89057563004cce3c159f46bcee300456b082f001cb494bd51e9",
+      "updated_at": "2026-05-31 05:08:21"
+    },
+    {
+      "id": "ufo-noises:page:a44320d11267d4f6371c0aad",
+      "logical_id": "ufo-noises-37edd1-silent-ufo-sightings-76971d:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-silent-ufo-sightings/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Silence.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:fc703ded477fbf5c6bacb0d4"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0126343ba5b827fa7f5f56458db05bfb0bee30e2cf791574e68e1f08fe63e6f4",
+      "reconciliation_fingerprint": "sha256:966b93aa35003f9b42c64f967ee9df6d935f795589f76f33ca651a53bc05fa85",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:a36df0f7271bc3b234e88a80",
+      "logical_id": "ufo-noises-37edd1-silent-ufo-sightings-76971d-missing-sonic-booms-ac593b",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/sonic-booms-6ebda0/",
+      "title": "Sonic Booms",
+      "summary": "Silent high-speed UFO claims raise a sharper question: whether the object was truly supersonic or only seemed that way.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:fc703ded477fbf5c6bacb0d4"
+      },
+      "tags": [
+        "ufo-noises",
+        "silence",
+        "sonic-booms"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:cf1b7af5c55fde45de8ba121a02877f8c2588ee88f9bf2e7545793d2619ffe27",
+      "reconciliation_fingerprint": "sha256:60d6573a7a0176a83d13f877f47f1289b2864ad489311990ee2b50c779adce02",
+      "updated_at": "2026-05-31 05:03:47"
+    },
+    {
+      "id": "ufo-noises:page:d93b5c0a13b56b4c35ab3dac",
+      "logical_id": "ufo-noises-37edd1-silent-ufo-sightings-76971d-night-distance-silen-05a5da",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/distance-errors-178e87/",
+      "title": "Distance Errors",
+      "summary": "A distant light can look close and large at night, making ordinary aircraft seem strangely silent from the ground.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:fc703ded477fbf5c6bacb0d4"
+      },
+      "tags": [
+        "ufo-noises",
+        "silence",
+        "distance-errors"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:6cc57cdf643d1a9fbaea19e0fe06b91807d05d0a0132cd7c055253591a461a0f",
+      "reconciliation_fingerprint": "sha256:f0146e2af4062b7234f48855992017a7686f367179d0dde206bd42afacf21526",
+      "updated_at": "2026-05-31 05:08:30"
+    },
+    {
+      "id": "ufo-noises:page:f3157d5d16bf306ee7924c3d",
+      "logical_id": "ufo-noises-37edd1-silent-ufo-sightings-76971d-weather-aircraft-noi-895714",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/weather-masking/",
+      "title": "Weather Masking",
+      "summary": "Wind, temperature layers, humidity and terrain can bend or weaken aircraft noise before it reaches a witness.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:fc703ded477fbf5c6bacb0d4"
+      },
+      "tags": [
+        "ufo-noises",
+        "silence",
+        "weather-masking"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2f868b98df00128ebdc3d05f13aa6b8fce8f9c7cad27ff46de714a57b7c08a2b",
+      "reconciliation_fingerprint": "sha256:407249c39ea5f5107b0de4a871f12fa38b60cc5637edc43d71878b47e841b7dd",
+      "updated_at": "2026-05-31 05:08:38"
+    },
+    {
+      "id": "ufo-noises:page:f161ac3dbc527fc7eb044772",
+      "logical_id": "ufo-noises-37edd1-sky-trumpet-videos-7ce948",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/sky-trumpets/",
+      "title": "Sky Trumpets",
+      "summary": "Sky trumpet recordings can sound uncanny, but many turn out to involve machinery, acoustics, trains, aircraft, or editing.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "sky-trumpets"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:13a9f654feb856119ec6df7f13c2a3ca973f212520fa8f44f8b4915dd0c7b14b",
+      "reconciliation_fingerprint": "sha256:a2aad76e67e3042b1a058f84e7cb8f0664085dd9806cfee96f8fa74a42b116f9",
+      "updated_at": "2026-05-31 04:55:36"
+    },
+    {
+      "id": "ufo-noises:page:b36531cf3c0d07bc331aa1ac",
+      "logical_id": "ufo-noises-37edd1-sky-trumpet-videos-7ce948:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-sky-trumpet-videos/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Sky Trumpets.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:f161ac3dbc527fc7eb044772"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:93a6eb9a4b14ba9a8b7de09405178581e453fe3c3d0bbf7610df2b98359c6abb",
+      "reconciliation_fingerprint": "sha256:9c6027b5dc3983354e64e6c6e1d69147bab70cf126e85f6c7a47fcb656d1e364",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:848f17ac015b0f367b79fc45",
+      "logical_id": "ufo-noises-37edd1-sky-trumpet-videos-7ce948-skyquake-history-ufo-e785ac",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/skyquakes/",
+      "title": "Skyquakes",
+      "summary": "Reports of unexplained booming sky sounds long predate social media, showing that modern UFO framing is only one chapter in an older mystery.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:f161ac3dbc527fc7eb044772"
+      },
+      "tags": [
+        "ufo-noises",
+        "sky-trumpets",
+        "skyquakes"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:34cb2a1c73ee6ea61de366b11d32ff1c8b11f78985ff333c90a056ace3eea28a",
+      "reconciliation_fingerprint": "sha256:6736bbd7f90e8ab5cbf7210639c866f6fde16a25d6d718d8e7336535b1bdbdd5",
+      "updated_at": "2026-05-31 05:00:44"
+    },
+    {
+      "id": "ufo-noises:page:cd0bc8fc8a76f57ab75f0b6a",
+      "logical_id": "ufo-noises-37edd1-sky-trumpet-videos-7ce948-stock-audio-sky-trum-5bac52",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/stock-audio/",
+      "title": "Stock Audio",
+      "summary": "Some famous sky trumpet videos look less mysterious when repeated audio layers and familiar cinematic effects are compared side by side.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:f161ac3dbc527fc7eb044772"
+      },
+      "tags": [
+        "ufo-noises",
+        "sky-trumpets",
+        "stock-audio"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:4ebd3c064dd64c05af48bd253559ee07f21d9466c516c0fe31bc05f0ca0c0ce7",
+      "reconciliation_fingerprint": "sha256:b8982750e6b15d55d23364e5f1e593d2ff512dc053f03b678f3dd2b7a9cd8dfe",
+      "updated_at": "2026-05-31 05:00:54"
+    },
+    {
+      "id": "ufo-noises:page:523b9976db9224e3a4455069",
+      "logical_id": "ufo-noises-37edd1-sky-trumpet-videos-7ce948-temperature-inversio-bca0a3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/weather-effects/",
+      "title": "Weather Effects",
+      "summary": "Temperature inversions can bend and carry sound so a faraway industrial or transport noise seems to come from above.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:f161ac3dbc527fc7eb044772"
+      },
+      "tags": [
+        "ufo-noises",
+        "sky-trumpets",
+        "weather-effects"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:e2e240ea5fede1deb1eb8afd8917d12f3e36bd4256cfe34b8c5d30d9b486fb67",
+      "reconciliation_fingerprint": "sha256:92081980e5076a33cca0f7c0eb88057b2bfc00460e36cd17e6a1a17e7a927b6c",
+      "updated_at": "2026-05-31 05:01:04"
+    },
+    {
+      "id": "ufo-noises:page:8269b34712531273655710dd",
+      "logical_id": "ufo-noises-37edd1-sky-trumpet-videos-7ce948-train-horns-sky-trum-de6e9e",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/train-sounds/",
+      "title": "Train Sounds",
+      "summary": "Distant trains can sound huge, metallic, and airborne when rail noise, horns, echoes, and weather distort the direction of the sound.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:f161ac3dbc527fc7eb044772"
+      },
+      "tags": [
+        "ufo-noises",
+        "sky-trumpets",
+        "train-sounds"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7fe5962804a3e1d917514dbb95871a854ccc7a2db168da4c31a37e64f541d3a8",
+      "reconciliation_fingerprint": "sha256:8a5146040ce41c5d1e47b8f329bb0a177b158e59394ca053266f6e2bda38e86b",
+      "updated_at": "2026-05-31 05:01:13"
+    },
+    {
+      "id": "ufo-noises:page:179b92e539452217b1de7345",
+      "logical_id": "ufo-noises-37edd1-sky-trumpet-videos-7ce948-verify-sky-trumpet-v-0d1b98",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/verification/",
+      "title": "Verification",
+      "summary": "A careful check of location, weather, nearby rail or industry, aircraft activity, and audio reuse can quickly narrow many sky trumpet claims.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:f161ac3dbc527fc7eb044772"
+      },
+      "tags": [
+        "ufo-noises",
+        "sky-trumpets",
+        "verification"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:3a4093494493c7c8293646bfdfe806435203cead4bc6ad185d261dda2788954d",
+      "reconciliation_fingerprint": "sha256:a8d2e927b925e1900eac75d7ea8be510ad0fccc3527a5594aeb212d17bc88ca4",
+      "updated_at": "2026-05-31 05:01:23"
+    },
+    {
+      "id": "ufo-noises:page:9742b221090475fefc86103e",
+      "logical_id": "ufo-noises-37edd1-sonic-boom-claims-e68177",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/sonic-booms/",
+      "title": "Sonic Booms",
+      "summary": "Reports of rapid UFO motion without sonic booms are intriguing, but speed and distance are easy to misjudge in the sky.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "sonic-booms"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0a7866520b58618463662a79b02aa30950c8eb117ffde8532a05bd0e931f870a",
+      "reconciliation_fingerprint": "sha256:6011778b87f98e6e751ff2d92d22558de49ca10a007813e549cef63e77ebf0ca",
+      "updated_at": "2026-05-31 04:55:23"
+    },
+    {
+      "id": "ufo-noises:page:83ab57a246e6760bc6f8a1ca",
+      "logical_id": "ufo-noises-37edd1-sonic-boom-claims-e68177-check-no-boom-ufo-re-4720fa",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/check-claims/",
+      "title": "Check Claims",
+      "summary": "A no-boom claim becomes stronger only when the object's speed, distance, altitude and local sound conditions can be tested together.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:9742b221090475fefc86103e"
+      },
+      "tags": [
+        "ufo-noises",
+        "sonic-booms",
+        "check-claims"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ca499f51a53bccd66854b6c8ccc8dc853cc820706ff78773d2c37549af8f71d7",
+      "reconciliation_fingerprint": "sha256:fc1cac78ccae232c48c079a25613af0ae2a7e963d3e0afa5fd91fd3ee7d17cc4",
+      "updated_at": "2026-05-31 04:59:49"
+    },
+    {
+      "id": "ufo-noises:page:9625fe3f02ae987f9724ca36",
+      "logical_id": "ufo-noises-37edd1-sonic-boom-claims-e68177-distance-errors-fast-8bf408",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/distance-errors/",
+      "title": "Distance Errors",
+      "summary": "Many silent high-speed UFO reports begin with a hidden problem: the object's distance is guessed rather than measured.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:9742b221090475fefc86103e"
+      },
+      "tags": [
+        "ufo-noises",
+        "sonic-booms",
+        "distance-errors"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:f29b451f106b4297444c5e28916c04a6ca52883294d6b02b818dffbad1e0ed61",
+      "reconciliation_fingerprint": "sha256:1f1c92450da95cb0e50ed651dedc045df749eb27210f683bd3aa86cd47f2039a",
+      "updated_at": "2026-05-31 04:59:58"
+    },
+    {
+      "id": "ufo-noises:page:3672f467e2f51e291e488c39",
+      "logical_id": "ufo-noises-37edd1-sonic-boom-claims-e68177:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-sonic-boom-claims/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Sonic Booms.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:9742b221090475fefc86103e"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a69c2e69b689b1f96ad56d4d45fcc44e5575edf6bce8165309a6d4d5a7227c5b",
+      "reconciliation_fingerprint": "sha256:2332ef82048edfeaceada05fd63b5993de8a31adf897c3234727cc15142c8956",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:054fadc94ac815e6dd49dbc9",
+      "logical_id": "ufo-noises-37edd1-sonic-boom-claims-e68177-nasa-low-boom-ufo-cl-253679",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/low-boom-jets/",
+      "title": "Low Boom Jets",
+      "summary": "NASA's low-boom research shows why supersonic flight does not always sound like the classic window-rattling boom.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:9742b221090475fefc86103e"
+      },
+      "tags": [
+        "ufo-noises",
+        "sonic-booms",
+        "low-boom-jets"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c85814cd1260958480df9d58b8e59679d37c6fe9231190a03fa209d7b86dc7b2",
+      "reconciliation_fingerprint": "sha256:00fc7ad083ee4428e63a9b177d08f7cf845181655aec87ff119fe65e5e3bc2c1",
+      "updated_at": "2026-05-31 05:00:08"
+    },
+    {
+      "id": "ufo-noises:page:cee032d72302c33289120d6c",
+      "logical_id": "ufo-noises-37edd1-sonic-boom-claims-e68177-pilot-radar-no-boom-2a3f28",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/pilot-cases/",
+      "title": "Pilot Cases",
+      "summary": "Reports involving pilots, radar or military witnesses are more interesting, but they still need trajectory and acoustic data to prove a true anomaly.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:9742b221090475fefc86103e"
+      },
+      "tags": [
+        "ufo-noises",
+        "sonic-booms",
+        "pilot-cases"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:20b118cd99cdbee778688047c8c857c08d144f133c2f61fdb2ae9fd398835aa9",
+      "reconciliation_fingerprint": "sha256:d69b2824274213fdbae01fe164232683387bbef261382534a5b37e41c4cedb81",
+      "updated_at": "2026-05-31 04:58:34"
+    },
+    {
+      "id": "ufo-noises:page:62eb17d03ae57c934351b60e",
+      "logical_id": "ufo-noises-37edd1-sonic-boom-claims-e68177-sonic-boom-footprint-876855",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/boom-footprints/",
+      "title": "Boom Footprints",
+      "summary": "A real sonic boom can occur without reaching the person who saw the object, depending on altitude, path and atmosphere.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:9742b221090475fefc86103e"
+      },
+      "tags": [
+        "ufo-noises",
+        "sonic-booms",
+        "boom-footprints"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2cb098494865d392a4ef4a08dd3fcc1f4dd1299753b221cfaa6d4f027129543c",
+      "reconciliation_fingerprint": "sha256:99ca2a2b8692d7a196908462cbcee677c8005c0b8ee5959ee6d3c74ab4a51f58",
+      "updated_at": "2026-05-31 05:00:17"
+    },
+    {
+      "id": "ufo-noises:page:6a20324cc9c65c3914959c19",
+      "logical_id": "ufo-noises-37edd1-taos-hum-ufo-specula-b823ea",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/taos-hum/",
+      "title": "Taos Hum",
+      "summary": "The Taos Hum shows how a persistent low-frequency mystery can become linked to UFOs even without a visible object.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "taos-hum"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:e34de5725addb2cc25defc9abfd8ad892e7acabf22bc9ea543eb753459852b4e",
+      "reconciliation_fingerprint": "sha256:2d0ea210ef484d78d09b3e94a9327584a472d72d3ced182f8295f6e4669a21c8",
+      "updated_at": "2026-05-31 04:57:25"
+    },
+    {
+      "id": "ufo-noises:page:6b2f9e7189b21735374f189d",
+      "logical_id": "ufo-noises-37edd1-taos-hum-ufo-specula-b823ea:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-taos-hum-ufo-specula/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Taos Hum.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:6a20324cc9c65c3914959c19"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:3b4409ea78fc4371a77f0974536a16e0d483e41b90b6cb68e4c31664be9d4f00",
+      "reconciliation_fingerprint": "sha256:746f4fd0241f6f724d8211403deb5dfa33e07663a173569bb95ae157942a4943",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:82b913b054de869ae304665a",
+      "logical_id": "ufo-noises-37edd1-taos-hum-ufo-specula-b823ea-taos-evidence-gap-fdc71e",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/evidence-gap/",
+      "title": "Evidence Gap",
+      "summary": "The Taos investigations found no accepted single source, but that gap is not evidence that UFOs caused the sound.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:6a20324cc9c65c3914959c19"
+      },
+      "tags": [
+        "ufo-noises",
+        "taos-hum",
+        "evidence-gap"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:70a94737d86835e64d9611621d6d441459bf463b423436d7ae127da9b248e596",
+      "reconciliation_fingerprint": "sha256:9fcf37fec6d05883666bb0798834822053993e3070635c5d45b54025c060203a",
+      "updated_at": "2026-05-31 05:00:26"
+    },
+    {
+      "id": "ufo-noises:page:4748a0ee53399552be721b4a",
+      "logical_id": "ufo-noises-37edd1-taos-hum-ufo-specula-b823ea-taos-low-frequency-c-8d567b",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/sound-clues/",
+      "title": "Sound Clues",
+      "summary": "Low-frequency sound can travel far, feel hard to locate, and make ordinary noise sources seem stranger than they are.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:6a20324cc9c65c3914959c19"
+      },
+      "tags": [
+        "ufo-noises",
+        "taos-hum",
+        "sound-clues"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:55fe3ab54a117d94833243c5b8f558e9dfd6e46549d153a1dcce8eccd477f61a",
+      "reconciliation_fingerprint": "sha256:0810ac496ddf3a30539bdf7985a53606bd415a9aa6e03d57766cd96bd4a7f493",
+      "updated_at": "2026-05-31 05:08:46"
+    },
+    {
+      "id": "ufo-noises:page:f4042cea8ff803ed999287ad",
+      "logical_id": "ufo-noises-37edd1-taos-hum-ufo-specula-b823ea-taos-medical-explana-9e6bff",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/medical-angle/",
+      "title": "Medical Angle",
+      "summary": "Tinnitus-like processes and other auditory effects offer a possible explanation for some Hum reports without explaining every experience.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:6a20324cc9c65c3914959c19"
+      },
+      "tags": [
+        "ufo-noises",
+        "taos-hum",
+        "medical-angle"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:d15dc42ec3b0b4045c1e36669a78b4765a1e6fbce1ac23c3fa96348fbebda073",
+      "reconciliation_fingerprint": "sha256:430426452e3406dcd30e691a920dfc89deed8d2155cdb7ac790be57bfb678636",
+      "updated_at": "2026-05-31 05:08:56"
+    },
+    {
+      "id": "ufo-noises:page:de0b53f96b5e99d9bcf1a85c",
+      "logical_id": "ufo-noises-37edd1-taos-hum-ufo-specula-b823ea-taos-secret-base-rum-a20fee",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/base-rumours/",
+      "title": "Base Rumours",
+      "summary": "The Hum became linked to underground-base rumours because an unseen sound, official uncertainty, and New Mexico UFO folklore fit together easily.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:6a20324cc9c65c3914959c19"
+      },
+      "tags": [
+        "ufo-noises",
+        "taos-hum",
+        "base-rumours"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a24f705bd7c8865283e6a6e29f187174929aee78c17baf56521dcecbb42cb1fc",
+      "reconciliation_fingerprint": "sha256:0b69647728a238f91d9158df3eb3f43e7bac2ca998627552cadf891a38c76440",
+      "updated_at": "2026-05-31 05:09:03"
+    },
+    {
+      "id": "ufo-noises:page:79147622907d32488745d5ef",
+      "logical_id": "ufo-noises-37edd1-taos-hum-ufo-specula-b823ea-taos-selective-heari-8fb106",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/selective-hearing/",
+      "title": "Selective Hearing",
+      "summary": "Selective hearing is central to the Taos Hum because some residents report a deep drone while many nearby people hear nothing at all.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:6a20324cc9c65c3914959c19"
+      },
+      "tags": [
+        "ufo-noises",
+        "taos-hum",
+        "selective-hearing"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:11bbc86f793721cb49a2b96389ebaa86d1a49f6a85637da5baf43fca6bdc7cfe",
+      "reconciliation_fingerprint": "sha256:fe981c352c029536403a04625423b6233848e82968f81b32299663dde69c1ca7",
+      "updated_at": "2026-05-31 05:09:10"
+    },
+    {
+      "id": "ufo-noises:page:f53908b9aa764c8e6c0537a8",
+      "logical_id": "ufo-noises-37edd1-ufo-noise-folklore-7b3b2f",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/folklore/",
+      "title": "Folklore",
+      "summary": "Hums, whines, silence, and metallic drones have become part of how people imagine UFOs even before they see one.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "folklore"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2b43960478b1b0acd5a2a3e4a3a5bc2fa0b1acdc9d2851f623dc180a5c573e3f",
+      "reconciliation_fingerprint": "sha256:651005cc30a8812563682aef3d800bb507555df1cca531a1999e7ccb3b4f52ce",
+      "updated_at": "2026-05-31 04:55:47"
+    },
+    {
+      "id": "ufo-noises:page:561459d2b3b44a56826a20af",
+      "logical_id": "ufo-noises-37edd1-ufo-noise-folklore-7b3b2f-close-encounters-mus-cbba53",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/musical-ufos/",
+      "title": "Musical UFOs",
+      "summary": "Close Encounters made UFO sound feel communicative, turning alien noise into music, contact, and wonder.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:f53908b9aa764c8e6c0537a8"
+      },
+      "tags": [
+        "ufo-noises",
+        "folklore",
+        "musical-ufos"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:f157bab8d3b8d252e7491948059dc63a9edd3bcafd884b8c10c2a496fc33db83",
+      "reconciliation_fingerprint": "sha256:31b54d0e331b77307305de46a4e55d28ff1d91321431d1a314a8014032603b47",
+      "updated_at": "2026-05-31 05:01:32"
+    },
+    {
+      "id": "ufo-noises:page:f555a059544260652242797d",
+      "logical_id": "ufo-noises-37edd1-ufo-noise-folklore-7b3b2f:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-ufo-noise-folklore/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Folklore.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:f53908b9aa764c8e6c0537a8"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:4acade9af14ee96d0cd462426459fea12641ff79bb1bd5841d7d669be9d1f17e",
+      "reconciliation_fingerprint": "sha256:c51a9e68222a9f9f107d893d08ed0d96f890fe9cf86ce69661136792ba6e9670",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:f56a753da8c598836c6fd04c",
+      "logical_id": "ufo-noises-37edd1-ufo-noise-folklore-7b3b2f-internet-sky-sounds-488b3a",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/sky-sounds/",
+      "title": "Sky Sounds",
+      "summary": "Online sky-sound videos spread quickly because metallic groans and trumpet-like blasts already fit UFO audio expectations.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:f53908b9aa764c8e6c0537a8"
+      },
+      "tags": [
+        "ufo-noises",
+        "folklore",
+        "sky-sounds"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:717a9c0793920c5f1728d95e6cb10d9c9cea623a1fce15f5320293e8facb580a",
+      "reconciliation_fingerprint": "sha256:1e0a80b98e821c9e00696de19bce02f91feecaf4fbc30de0b9431a1d4216f91e",
+      "updated_at": "2026-05-31 05:00:35"
+    },
+    {
+      "id": "ufo-noises:page:4398ec3b3222a20c7610cc3c",
+      "logical_id": "ufo-noises-37edd1-ufo-noise-folklore-7b3b2f-sci-fi-ufo-sound-des-234a73",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/screen-sounds/",
+      "title": "Screen Sounds",
+      "summary": "Films and television taught audiences to hear alien craft through electronic whines, drones, pulses, and metallic tones.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:f53908b9aa764c8e6c0537a8"
+      },
+      "tags": [
+        "ufo-noises",
+        "folklore",
+        "screen-sounds"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:abf8a387bbd286eab2eed3808b0e71e51d2fccaf0aa9121111ede8f4884ee742",
+      "reconciliation_fingerprint": "sha256:f508358c5007e3ba6290c644cfef722deb6e6367a6e812b5423aaa551e39224f",
+      "updated_at": "2026-05-31 05:01:41"
+    },
+    {
+      "id": "ufo-noises:page:afcc8f854f7355793fe30da6",
+      "logical_id": "ufo-noises-37edd1-ufo-noise-folklore-7b3b2f-silent-ufo-reports-690069",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/silent-craft/",
+      "title": "Silent Craft",
+      "summary": "Silence can make a UFO account feel more impossible than noise because it violates expectations about aircraft and engines.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:f53908b9aa764c8e6c0537a8"
+      },
+      "tags": [
+        "ufo-noises",
+        "folklore",
+        "silent-craft"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:27a8af7d0830400b7f0234420ba51aa00a286c2b1d5ac3079282e1aa255aec22",
+      "reconciliation_fingerprint": "sha256:0bd83dd7ca782b803834f02afbe51be9de7bf3468e00ad72b1b65b8212aa1963",
+      "updated_at": "2026-05-31 04:58:42"
+    },
+    {
+      "id": "ufo-noises:page:8d9ecb9c71cd8abc7f167633",
+      "logical_id": "ufo-noises-37edd1-ufo-noise-folklore-7b3b2f-ufo-hums-buzzes-5eea49",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/hums-and-buzzes/",
+      "title": "Hums and Buzzes",
+      "summary": "Hums and buzzes became the default UFO sound because they suggest advanced machinery without sounding completely unfamiliar.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:f53908b9aa764c8e6c0537a8"
+      },
+      "tags": [
+        "ufo-noises",
+        "folklore",
+        "hums-and-buzzes"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:f4f41c9fb0591cc92226b76e8f85faec6275d3cd9d38d5271b7797b6614ddc07",
+      "reconciliation_fingerprint": "sha256:174264065d152c7b2a077af30c00e19b7983e0c9d0b845558d3b52e10f0a516d",
+      "updated_at": "2026-05-31 04:57:54"
+    },
+    {
+      "id": "ufo-noises:page:d28432b49aead9446046a9ff",
+      "logical_id": "ufo-noises-37edd1-witness-memory-sound-0c49e1",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/memory/",
+      "title": "Memory",
+      "summary": "UFO sound testimony can change as surprise, fear, discussion, and later media exposure reshape what people remember hearing.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-noises:page:97fc70cd91db34e201c5dbd4"
+      },
+      "tags": [
+        "ufo-noises",
+        "memory"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:f6e06bc05569205a8b74d269008078d6e0beea4743e72e7f98d3b1e434d43895",
+      "reconciliation_fingerprint": "sha256:83ced493f686a91deb940e901c4d975aa53838edfe61d2e517bdc3bec195c6ae",
+      "updated_at": "2026-05-31 04:57:37"
+    },
+    {
+      "id": "ufo-noises:page:2910c7b1ef20324ec6abbb9e",
+      "logical_id": "ufo-noises-37edd1-witness-memory-sound-0c49e1-cowitness-sound-memo-2f56f9",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/shared-memories/",
+      "title": "Shared Memories",
+      "summary": "Witnesses who compare stories can unintentionally align their memories, including what the object supposedly sounded like.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:d28432b49aead9446046a9ff"
+      },
+      "tags": [
+        "ufo-noises",
+        "memory",
+        "shared-memories"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:3ca399f2a0803ba46080f1e05f32cf235b452d960ac7819bd148da67643d1818",
+      "reconciliation_fingerprint": "sha256:91b576b51e1c1c88368b5efd858f685fec18b6d5433c0d612e18ba3db9414c41",
+      "updated_at": "2026-05-31 05:09:23"
+    },
+    {
+      "id": "ufo-noises:page:f7968115013d8c38fb7f09b6",
+      "logical_id": "ufo-noises-37edd1-witness-memory-sound-0c49e1:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-noises.isaackoi.com/ufo-noises-37edd1-witness-memory-sound/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Memory.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-noises:page:d28432b49aead9446046a9ff"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c078010441d470a9b32e80c50bd4718385db5e5d20a5b5fd863bc35b9314e5f9",
+      "reconciliation_fingerprint": "sha256:dda78154cd3c71dd00c0584d5e762ec2b661788f8871731b33b44642f05acba2",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-noises:page:11b9bf0959ac7734a9f6ae0d",
+      "logical_id": "ufo-noises-37edd1-witness-memory-sound-0c49e1-silent-ufo-reasoning-314f84",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/silence-claims/",
+      "title": "Silence Claims",
+      "summary": "Claims that an object was silent can reflect real perception, but they also depend on what the witness expected to hear.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:d28432b49aead9446046a9ff"
+      },
+      "tags": [
+        "ufo-noises",
+        "memory",
+        "silence-claims"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:9c19964b0454f08be3531de5c7d39aab0404c5a4f329e017878a1102a4a34081",
+      "reconciliation_fingerprint": "sha256:d80bd1980f645ef13b599efd3815b10ffab915fa8fc2edb17d1686bac05e9d92",
+      "updated_at": "2026-05-31 05:09:30"
+    },
+    {
+      "id": "ufo-noises:page:189594fa7af24312ac701555",
+      "logical_id": "ufo-noises-37edd1-witness-memory-sound-0c49e1-stress-narrowing-sou-ba4921",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/stress-focus/",
+      "title": "Stress Focus",
+      "summary": "Stress can make witnesses fixate on the object while leaving the remembered sound vague, partial, or later reshaped.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:d28432b49aead9446046a9ff"
+      },
+      "tags": [
+        "ufo-noises",
+        "memory",
+        "stress-focus"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b850efd057a042226535f592bbe375cdd957af54f185e865f386e79b11c6de26",
+      "reconciliation_fingerprint": "sha256:4585617d2b0aa88ae7ac1f5171828f25eea45b97a5415da5bfda16e3a9eefdbc",
+      "updated_at": "2026-05-31 05:09:40"
+    },
+    {
+      "id": "ufo-noises:page:181820bac0e3e8f59a8ac52c",
+      "logical_id": "ufo-noises-37edd1-witness-memory-sound-0c49e1-ufo-sound-analogies-fcd6f7",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/sound-analogies/",
+      "title": "Sound Analogies",
+      "summary": "Comparisons to transformers, insects, turbines, and engines reveal how witnesses translate unfamiliar sounds into known examples.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:d28432b49aead9446046a9ff"
+      },
+      "tags": [
+        "ufo-noises",
+        "memory",
+        "sound-analogies"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:5007717fd3296b5abcf4aa4553b052cd8332875d6efa006f10370ba609ae9881",
+      "reconciliation_fingerprint": "sha256:71f08af162d6b90595a107671f98f5a4a97655b7682ff27a796d952ef31dd6e6",
+      "updated_at": "2026-05-31 05:03:57"
+    },
+    {
+      "id": "ufo-noises:page:876d9ffea83434d9b41ecb9b",
+      "logical_id": "ufo-noises-37edd1-witness-memory-sound-0c49e1-ufo-sound-retellings-2a2f1e",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-noises.isaackoi.com/retellings/",
+      "title": "Retellings",
+      "summary": "Repeated retellings can turn a simple hum into a richer description without the witness intending to mislead anyone.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-noises:page:d28432b49aead9446046a9ff"
+      },
+      "tags": [
+        "ufo-noises",
+        "memory",
+        "retellings"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:3946583058b7582e83e2d849db74d88b195cd5e26fc0d4de890d48e9a3c0239b",
+      "reconciliation_fingerprint": "sha256:76ff17a68434de7ac2c6eaa5c70950d7fa611117d858f967f3120a71372bf313",
+      "updated_at": "2026-05-31 05:09:52"
+    }
+  ]
+}

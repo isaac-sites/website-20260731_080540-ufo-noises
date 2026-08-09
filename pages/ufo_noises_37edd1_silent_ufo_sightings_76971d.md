@@ -3,60 +3,56 @@ level: 2
 basename: ufo_noises_37edd1_silent_ufo_sightings_76971d
 parent_basename: ufo_noises_37edd1
 child_basenames:
-- ufo_noises_37edd1_silent_ufo_sightings_76971d_aircraft_sound_delay_4e38b2
-- ufo_noises_37edd1_silent_ufo_sightings_76971d_balloon_silent_ufo_m_565f17
-- ufo_noises_37edd1_silent_ufo_sightings_76971d_head_on_hover_illusi_059af0
+- ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601
+- ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f
 - ufo_noises_37edd1_silent_ufo_sightings_76971d_index
-- ufo_noises_37edd1_silent_ufo_sightings_76971d_night_lights_distanc_61605d
-- ufo_noises_37edd1_silent_ufo_sightings_76971d_silent_ufo_distance_85dc75
+- ufo_noises_37edd1_silent_ufo_sightings_76971d_missing_sonic_booms_ac593b
+- ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da
+- ufo_noises_37edd1_silent_ufo_sightings_76971d_weather_aircraft_noi_895714
 sibling_basenames:
-- ufo_noises_37edd1_aircraft_noise_ufo_r_eb7708
-- ufo_noises_37edd1_atmospheric_sound_di_bbf0b8
-- ufo_noises_37edd1_directionless_low_fr_e1572c
-- ufo_noises_37edd1_earthquake_booms_sen_b78e20
-- ufo_noises_37edd1_expectation_memory_u_a9ca21
-- ufo_noises_37edd1_identify_overhead_so_59e810
-- ufo_noises_37edd1_low_humming_ufo_repo_696a32
-- ufo_noises_37edd1_meteor_booms_ufo_sou_217887
-- ufo_noises_37edd1_official_uap_acousti_843736
-- ufo_noises_37edd1_record_unexplained_s_403e7e
-- ufo_noises_37edd1_reported_ufo_sound_p_8e97ba
-- ufo_noises_37edd1_the_hum_ufo_speculat_3d3c0a
-- ufo_noises_37edd1_ufo_buzzing_vs_drone_7576a5
-- ufo_noises_37edd1_ufo_sound_myths_evid_b76e68
+- ufo_noises_37edd1_acoustic_monitoring_609fad
+- ufo_noises_37edd1_aircraft_sound_mista_f42cc5
+- ufo_noises_37edd1_atmospheric_acoustic_8ad214
+- ufo_noises_37edd1_buzzing_electrical_c_877b01
+- ufo_noises_37edd1_humming_ufo_reports_8a7cf2
+- ufo_noises_37edd1_industrial_noise_mis_f8566f
+- ufo_noises_37edd1_infrasound_ufo_sensa_380040
+- ufo_noises_37edd1_mystery_booms_ufo_329ad9
+- ufo_noises_37edd1_record_check_ufo_noi_a48df5
+- ufo_noises_37edd1_sky_trumpet_videos_7ce948
+- ufo_noises_37edd1_sonic_boom_claims_e68177
+- ufo_noises_37edd1_taos_hum_ufo_specula_b823ea
+- ufo_noises_37edd1_ufo_noise_folklore_7b3b2f
+- ufo_noises_37edd1_witness_memory_sound_0c49e1
 tags:
 - ufo-noises
-- silent-sightings
+- silence
 keywords:
 - ufo-noises
-- silent-sightings
+- silence
 affiliate_category: ufo-noises
 show_ads: true
-description: Many apparently silent UFOs may be farther away, smaller, or differently positioned than witnesses initially estimate.
-hero_summary: Many apparently silent UFOs may be farther away, smaller, or differently positioned than witnesses initially estimate.
+description: 'Silent UFO reports raise a simple question: was the object truly quiet, or was distance, wind, or expectation hiding the sound?'
+hero_summary: 'Silent UFO reports raise a simple question: was the object truly quiet, or was distance, wind, or expectation hiding the sound?'
 layout: default
-permalink: /silent-sightings/
+permalink: /silence/
 sidebar_expanded_urls:
 - /ufo-noises/
-nav_short_title: Silent Sightings
-title: Why Do So Many UFO Reports Describe Silence?
-title_full: Why Do So Many UFO Reports Describe Silence? | UFO Noises
-display_title_short: Silent Sightings
-display_title: Silent Sightings
-heading_title: Why Do So Many UFO Reports Describe Silence?
-page_heading_title: Why Do So Many UFO Reports Describe Silence?
-source_count: 41
+nav_short_title: Silence
+title: Why Are Some UFOs Reported Silent?
+title_full: Why Are Some UFOs Reported Silent?
+display_title_short: Silence
+display_title: Silence
+heading_title: Why Are Some UFOs Reported Silent?
+page_heading_title: Why Are Some UFOs Reported Silent?
+source_count: 49
 infographic_count: 3
-site_visual_identity: signal-cobalt
-site_visual_identity_confidence: high
-site_visual_motif: constellation
-site_typography_tone: technical
 planned_sections:
-- How distance changes apparent sound
-- Nighttime size and altitude errors
-- Aircraft, balloons, and quiet viewing angles
-focal_unit_type: mechanism
-topic_lens: mechanism
+- What witnesses mean by silence
+- Distance and atmospheric masking
+- Silent flight as UFO lore
+focal_unit_type: population_context
+topic_lens: evidence
 topic_granularity: pillar
 output_language: English
 lang: en
@@ -201,23 +197,7 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
-  report_details: Report details
-  report_actions: Report actions
-  sources: sources
-  graphics: graphics
-  share_page: Share
-  copy_link: Copy link
-  download_social_image: Download image
-  cite_page: Cite page
-  print_save: Print / save
-  share_opened: Share dialog opened
-  share_unavailable: Sharing unavailable; link copied
-  social_image_downloaded: Image download started
-  link_copied: Link copied
-  citation_copied: Citation copied
-  copy_failed: Copy failed
   topics: Topics
-  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -235,10 +215,11 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-30 21:14:43'
+date: '2026-05-31 04:57:15'
 parent_title: UFO Noises
 parent_permalink: /ufo-noises/
 parent_nav_short_title: UFO Noises
+parent_heading_title: What Do UFO Witnesses Hear?
 ancestor_links:
 - basename: ufo_noises_37edd1
   title: UFO Noises
@@ -250,315 +231,264 @@ breadcrumb_links:
   permalink: /ufo-noises/
   short_title: UFO Noises
 sibling_links:
-- basename: ufo_noises_37edd1_aircraft_noise_ufo_r_eb7708
-  title: Aircraft Noise | UFO Noises
-  permalink: /aircraft-noise/
-  short_title: Aircraft Noise
-  heading_title: When Aircraft Noise Sounds Like a UFO
-- basename: ufo_noises_37edd1_ufo_buzzing_vs_drone_7576a5
-  title: Drones | UFO Noises
-  permalink: /drones/
-  short_title: Drones
-  heading_title: Could That Buzzing UFO Be a Drone?
-- basename: ufo_noises_37edd1_earthquake_booms_sen_b78e20
-  title: Earth Booms | UFO Noises
-  permalink: /earth-booms/
-  short_title: Earth Booms
-  heading_title: Can Earthquakes Sound Like UFOs Overhead?
-- basename: ufo_noises_37edd1_identify_overhead_so_59e810
-  title: Identify Sources | UFO Noises
-  permalink: /identify-sources/
-  short_title: Identify Sources
-  heading_title: A Practical Check Before Calling It a UFO
-- basename: ufo_noises_37edd1_directionless_low_fr_e1572c
-  title: Low Frequency | UFO Noises
-  permalink: /low-frequency/
-  short_title: Low Frequency
-  heading_title: Why Strange Hums Seem to Come From Everywhere
-- basename: ufo_noises_37edd1_low_humming_ufo_repo_696a32
-  title: Low Hums | UFO Noises
-  permalink: /low-hums/
-  short_title: Low Hums
-  heading_title: What Causes the Low Hum in UFO Reports?
-- basename: ufo_noises_37edd1_meteor_booms_ufo_sou_217887
-  title: Meteor Booms | UFO Noises
-  permalink: /meteor-booms/
-  short_title: Meteor Booms
-  heading_title: How Meteors Create UFO Like Booms
-- basename: ufo_noises_37edd1_ufo_sound_myths_evid_b76e68
-  title: Myths | UFO Noises
-  permalink: /myths/
-  short_title: Myths
-  heading_title: Can Any Sound Prove a UFO Is Extraordinary?
-- basename: ufo_noises_37edd1_official_uap_acousti_843736
-  title: Official Files | UFO Noises
-  permalink: /official-files/
-  short_title: Official Files
-  heading_title: Do Official UAP Files Reveal a Unique Sound?
-- basename: ufo_noises_37edd1_expectation_memory_u_a9ca21
-  title: Perception | UFO Noises
-  permalink: /perception/
-  short_title: Perception
-  heading_title: How Expectation Shapes UFO Sound Memories
-- basename: ufo_noises_37edd1_record_unexplained_s_403e7e
-  title: Record It | UFO Noises
+- basename: ufo_noises_37edd1_aircraft_sound_mista_f42cc5
+  title: Aircraft | What Do UFO Witnesses Hear?
+  permalink: /aircraft/
+  short_title: Aircraft
+  heading_title: When Aircraft Sounds Become UFO Stories
+- basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214
+  title: Atmosphere | What Do UFO Witnesses Hear?
+  permalink: /atmosphere/
+  short_title: Atmosphere
+  heading_title: When Ordinary Sounds Come From the Sky
+- basename: ufo_noises_37edd1_mystery_booms_ufo_329ad9
+  title: Booms | What Do UFO Witnesses Hear?
+  permalink: /booms/
+  short_title: Booms
+  heading_title: What Causes Mystery Booms in the Sky?
+- basename: ufo_noises_37edd1_buzzing_electrical_c_877b01
+  title: Buzzing | What Do UFO Witnesses Hear?
+  permalink: /buzzing/
+  short_title: Buzzing
+  heading_title: Are Buzzing UFO Sounds Really Electrical?
+- basename: ufo_noises_37edd1_ufo_noise_folklore_7b3b2f
+  title: Folklore | What Do UFO Witnesses Hear?
+  permalink: /folklore/
+  short_title: Folklore
+  heading_title: How UFO Sounds Became Folklore
+- basename: ufo_noises_37edd1_humming_ufo_reports_8a7cf2
+  title: Humming | What Do UFO Witnesses Hear?
+  permalink: /humming/
+  short_title: Humming
+  heading_title: Why Do So Many UFOs Hum?
+- basename: ufo_noises_37edd1_industrial_noise_mis_f8566f
+  title: Industry | What Do UFO Witnesses Hear?
+  permalink: /industry/
+  short_title: Industry
+  heading_title: Could That UFO Noise Be Machinery?
+- basename: ufo_noises_37edd1_infrasound_ufo_sensa_380040
+  title: Infrasound | What Do UFO Witnesses Hear?
+  permalink: /infrasound/
+  short_title: Infrasound
+  heading_title: Could Infrasound Explain UFO Vibrations?
+- basename: ufo_noises_37edd1_witness_memory_sound_0c49e1
+  title: Memory | What Do UFO Witnesses Hear?
+  permalink: /memory/
+  short_title: Memory
+  heading_title: How Memory Changes UFO Sounds
+- basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5
+  title: Record It | What Do UFO Witnesses Hear?
   permalink: /record-it/
   short_title: Record It
-  heading_title: How to Document a Strange Sound Overhead
-- basename: ufo_noises_37edd1_reported_ufo_sound_p_8e97ba
-  title: Sound Reports | UFO Noises
-  permalink: /sound-reports/
-  short_title: Sound Reports
-  heading_title: What Sounds Do UFO Witnesses Actually Report?
-- basename: ufo_noises_37edd1_atmospheric_sound_di_bbf0b8
-  title: Sound Travel | UFO Noises
-  permalink: /sound-travel/
-  short_title: Sound Travel
-  heading_title: How Weather Makes Sky Sounds Seem Mysterious
-- basename: ufo_noises_37edd1_the_hum_ufo_speculat_3d3c0a
-  title: The Hum | UFO Noises
-  permalink: /the-hum/
-  short_title: The Hum
-  heading_title: Is The Hum Connected to UFOs?
+  heading_title: How Should You Record a UFO Noise?
+- basename: ufo_noises_37edd1_acoustic_monitoring_609fad
+  title: Sensors | What Do UFO Witnesses Hear?
+  permalink: /sensors/
+  short_title: Sensors
+  heading_title: Can Sensors Catch UFO Noises?
+- basename: ufo_noises_37edd1_sky_trumpet_videos_7ce948
+  title: Sky Trumpets | What Do UFO Witnesses Hear?
+  permalink: /sky-trumpets/
+  short_title: Sky Trumpets
+  heading_title: What Are Sky Trumpet Sounds?
+- basename: ufo_noises_37edd1_sonic_boom_claims_e68177
+  title: Sonic Booms | What Do UFO Witnesses Hear?
+  permalink: /sonic-booms/
+  short_title: Sonic Booms
+  heading_title: Can UFOs Break Sound Without Booms?
+- basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea
+  title: Taos Hum | What Do UFO Witnesses Hear?
+  permalink: /taos-hum/
+  short_title: Taos Hum
+  heading_title: Why Is the Taos Hum Linked to UFOs?
 child_links:
-- basename: ufo_noises_37edd1_silent_ufo_sightings_76971d_balloon_silent_ufo_m_565f17
-  title: Balloons | Silent Sightings
-  permalink: /balloons/
-  short_title: Balloons
-  heading_title: Why High Balloons Can Look Like Giant Silent UFOs
-- basename: ufo_noises_37edd1_silent_ufo_sightings_76971d_head_on_hover_illusi_059af0
-  title: Hover Illusion | Silent Sightings
-  permalink: /hover-illusion/
-  short_title: Hover Illusion
-  heading_title: When a Head On Aircraft Looks Like a Hovering UFO
-- basename: ufo_noises_37edd1_silent_ufo_sightings_76971d_night_lights_distanc_61605d
-  title: Night Lights | Silent Sightings
-  permalink: /night-lights/
-  short_title: Night Lights
-  heading_title: Why Night Lights Make Silent UFOs Look Nearby
-- basename: ufo_noises_37edd1_silent_ufo_sightings_76971d_silent_ufo_distance_85dc75
-  title: Range Checks | Silent Sightings
-  permalink: /range-checks/
-  short_title: Range Checks
-  heading_title: How Investigators Check Whether a Silent UFO Was Distant
-- basename: ufo_noises_37edd1_silent_ufo_sightings_76971d_aircraft_sound_delay_4e38b2
-  title: Sound Delay | Silent Sightings
-  permalink: /sound-delay/
-  short_title: Sound Delay
-  heading_title: Can Aircraft Noise Arrive After the UFO Passes?
+- basename: ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601
+  title: Belgian Triangles | Silence
+  permalink: /belgian-triangles/
+  short_title: Belgian Triangles
+  heading_title: Why Were Belgium's Triangles So Quiet?
+- basename: ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da
+  title: Distance Errors | Silence
+  permalink: /distance-errors-178e87/
+  short_title: Distance Errors
+  heading_title: When Faraway Lights Seem Silent
+- basename: ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f
+  title: Inside Cars | Silence
+  permalink: /inside-cars/
+  short_title: Inside Cars
+  heading_title: Silent UFOs Seen From Cars
+- basename: ufo_noises_37edd1_silent_ufo_sightings_76971d_missing_sonic_booms_ac593b
+  title: Sonic Booms | Silence
+  permalink: /sonic-booms-6ebda0/
+  short_title: Sonic Booms
+  heading_title: Why No Sonic Boom Was Heard
+- basename: ufo_noises_37edd1_silent_ufo_sightings_76971d_weather_aircraft_noi_895714
+  title: Weather Masking | Silence
+  permalink: /weather-masking/
+  short_title: Weather Masking
+  heading_title: Can Weather Make Aircraft Soundless?
 up_link:
   basename: ufo_noises_37edd1
   title: UFO Noises
   permalink: /ufo-noises/
   short_title: UFO Noises
-has_inline_related_reports_panel: true
 prev_link:
-  basename: ufo_noises_37edd1_record_unexplained_s_403e7e
-  title: Record It | UFO Noises
-  permalink: /record-it/
-  short_title: Record It
-  heading_title: How to Document a Strange Sound Overhead
+  basename: ufo_noises_37edd1_acoustic_monitoring_609fad
+  title: Sensors | What Do UFO Witnesses Hear?
+  permalink: /sensors/
+  short_title: Sensors
+  heading_title: Can Sensors Catch UFO Noises?
 next_link:
-  basename: ufo_noises_37edd1_reported_ufo_sound_p_8e97ba
-  title: Sound Reports | UFO Noises
-  permalink: /sound-reports/
-  short_title: Sound Reports
-  heading_title: What Sounds Do UFO Witnesses Actually Report?
+  basename: ufo_noises_37edd1_sky_trumpet_videos_7ce948
+  title: Sky Trumpets | What Do UFO Witnesses Hear?
+  permalink: /sky-trumpets/
+  short_title: Sky Trumpets
+  heading_title: What Are Sky Trumpet Sounds?
 header:
   og_image: /assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-overview-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-overview.webp
-share_hook: Many apparently silent UFOs may be farther away, smaller, or differently positioned than witnesses initially estimate.
 image: /assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-overview-social.jpg
 ---
 
 ## Introduction
 
-One of the most striking features of many reported UFO or unidentified aerial phenomenon (UAP) encounters is not an unusual sound, but the complete absence of one. Witnesses frequently describe objects that appear close enough to hear, moving at speeds or performing manoeuvres that would normally produce engine noise, rotor wash, or sonic booms—yet they report silence. This apparent contradiction has become known as the **silent UFO paradox**: if an object is genuinely nearby and moving as observed, why is it not audible?
+One of the most persistent features in UFO reports is not a strange sound but the absence of one. Witnesses often describe large, low-flying or apparently fast-moving objects that seemed completely silent. In many accounts, people expected to hear engines, rotors or jet noise and instead reported only stillness. That contrast has become a central part of UFO lore.
 
+<img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-overview.webp" | relative_url }}" alt="Overview image for Silence" loading="eager" decoding="sync" fetchpriority="high">
+The key question is whether these objects were genuinely silent or merely seemed silent from the witness's position. Acoustics, weather, distance, background noise and human perception can all affect how sound is experienced. At the same time, some reports remain difficult to reconcile with ordinary expectations, especially when witnesses claim that a large object passed nearby without any obvious engine noise.
 
+## What Witnesses Mean by “Silence”
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-overview.webp" | relative_url }}" alt="Overview image for Silent Sightings" loading="eager" decoding="sync" fetchpriority="high">
+When people report a silent UFO, they rarely mean an absolute absence of sound measured by instruments. Most accounts describe a situation in which a witness expected a familiar [aircraft]({{ 'aircraft/' | relative_url }}) noise and did not hear it.
 
-Within the broader subject of [UFO noises]({{ 'ufo-noises/' | relative_url }}), silent sightings are especially important because they challenge expectations rather than reinforce them. However, they do not by themselves demonstrate exotic technology. Modern UAP investigations have not identified a verified acoustic signature associated with [unexplained]({{ 'unexplained/' | relative_url }}) aerial objects, and government reviews continue to conclude that silence alone is not evidence of an extraordinary origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarDOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of Defense &gt; Defense Department New...</span></span></span>(https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
-
-## Why silence seems so unusual
-
-People intuitively associate flight with sound. Helicopters generate distinctive rotor noise, propeller aircraft create a persistent engine note, and jet aircraft produce both engine roar and, at high speed, sonic booms. Even relatively quiet electric [drones]({{ 'drones/' | relative_url }}) emit audible propeller sounds at modest distances.
-
-Against this background, reports of apparently silent objects stand out because witnesses often claim one or more of the following:
-
-
-
-<!-- HIERARCHY_NAV_START -->
-<aside class="related-reports" aria-label="Related pages">
-<h2>Follow this branch</h2>
-<div class="related-reports-grid">
-<section class="related-reports-section related-reports-section-closest">
-<h3>Closest pages</h3>
-<ul>
-<li><a href="{{ '/ufo-noises/' | relative_url }}"><span class="article-branch-link-short">UFO Noises</span></a></li>
-<li><a href="{{ '/identify-sources/' | relative_url }}"><span class="article-branch-link-short">Identify Sources</span><span class="article-branch-link-heading">A Practical Check Before Calling It a UFO</span></a></li>
-<li><a href="{{ '/record-it/' | relative_url }}"><span class="article-branch-link-short">Record It</span><span class="article-branch-link-heading">How to Document a Strange Sound Overhead</span></a></li>
-<li><a href="{{ '/aircraft-noise/' | relative_url }}"><span class="article-branch-link-short">Aircraft Noise</span><span class="article-branch-link-heading">When Aircraft Noise Sounds Like a UFO</span></a></li>
-<li><a href="{{ '/official-files/' | relative_url }}"><span class="article-branch-link-short">Official Files</span><span class="article-branch-link-heading">Do Official UAP Files Reveal a Unique Sound?</span></a></li>
-</ul>
-</section>
-</div>
-</aside>
-<!-- HIERARCHY_NAV_END -->
-
+Common descriptions include:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The object appeared low overhead.
-* It seemed large enough that conventional aircraft would have been clearly audible.
-* It accelerated or changed direction abruptly.
-* It departed without any increase in sound.
+* A large object moving overhead without engine sound.
+* A triangular craft gliding silently at low altitude.
+* A bright object accelerating without the roar normally associated with jets.
+* An object that produced only a faint hum or vibration rather than obvious propulsion noise.
+* Complete silence despite apparent size or speed.
 
 </div>
 
-The paradox therefore depends on the witness's estimate of distance, size and speed. If any of those estimates are inaccurate—as can easily happen when observing an unfamiliar object against a dark or featureless sky—the expectation of noise may also be incorrect.
+This distinction matters because witnesses usually judge silence against everyday experience. A helicopter, for example, is expected to produce rotor noise. A low-flying passenger aircraft is expected to be audible. When something appears visually similar but does not generate the expected sound, the absence itself becomes part of the mystery.
 
-## Why eyewitnesses may hear nothing
+Many classic “black triangle” reports emphasise this point. During the Belgian UFO wave of 1989–1990, numerous witnesses described large triangular objects with lights underneath that appeared to move slowly and quietly across the sky. Silence became one of the most repeated elements in those accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Belgian UFO</span><span class="citation-popover-snippet">Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</span></span></span>
 
-Silence has several possible explanations that do not require an unconventional aircraft.
+<img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-dark.svg" | relative_url }}" alt="Silence illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Large Objects Can Appear Silent
 
+The simplest explanation is that people often misjudge distance, altitude and speed at night.
 
+Without clear visual reference points, a relatively ordinary aircraft can appear much larger or closer than it really is. If the object is farther away than assumed, its sound may be weak, delayed or lost in ambient noise. A witness may therefore perceive an object as a huge [silent craft]({{ 'silent-craft/' | relative_url }}) when it is actually a conventional aircraft seen under unusual viewing conditions.
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-dark.svg" | relative_url }}" alt="Silent Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Sound also behaves differently from light. Light reaches an observer almost instantly, while sound travels through air at roughly 343 metres per second. A distant aircraft may be seen first, with engine noise arriving later or not being noticed at all.
 
-### Distance is often misjudged
+Weather further complicates matters. Wind [direction]({{ 'direction/' | relative_url }}), temperature layers and atmospheric conditions can bend, absorb or redirect sound waves. The FAA notes that weather conditions significantly affect how aircraft noise dissipates and reaches listeners on the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</span></span></span>
 
-Without reliable visual references, people frequently underestimate how far away lights in the sky actually are. A bright aircraft, satellite flare, atmospheric phenomenon or drone may appear much closer than it really is.
-
-If an object is kilometres away rather than hundreds of metres away, little or no sound may reach an observer.
-
-### Sound and light do not arrive together
-
-Light reaches an observer almost instantly, whereas [sound travels]({{ 'sound-travel/' | relative_url }}) through air at roughly 343 metres per second under normal conditions.
-
-An aircraft producing a loud sound may therefore be seen first, with the sound arriving several seconds later. If the object changes direction, disappears behind terrain or leaves the observer's field of view before the sound arrives, the experience may be remembered as silent.
-
-### Atmospheric conditions can suppress sound
-
-Temperature inversions, wind direction, humidity and terrain can all affect how sound propagates.
-
-Under some conditions, [aircraft noise]({{ 'aircraft-noise/' | relative_url }}) is carried away from an observer rather than towards them. In others, sound is refracted, producing unexpectedly quiet conditions nearby while remaining audible much farther away.
-
-These well-established acoustic effects help explain why observers sometimes report unusually quiet aircraft or explosions.
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 1:02:46">1:02:46</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
-
-### Expectations influence perception
-
-Witnesses concentrating on an unexpected visual event may not notice background sounds or may later remember the event differently. Cognitive psychology has shown that memory reconstructs experiences rather than replaying them exactly, particularly during surprising or emotionally significant events.
-
-This does not imply that witnesses are dishonest. Instead, it illustrates why silence should be treated as one observational detail rather than a decisive physical measurement.
-
-## Silent sightings in historical UFO reports
-
-Silence has been reported throughout the modern history of UFO claims, but it has never been universal.
-
-Many classic case files include descriptions such as:
-
+As a result, an aircraft can occasionally seem much quieter than expected, particularly:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Disc-shaped objects hovering without audible engines.
-* Triangular objects gliding silently overhead.
-* Bright lights moving steadily with no apparent sound.
-* Objects disappearing rapidly without sonic booms.
+* At night.
+* During windy conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyreagan.com">[flyreagan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyreagan.com</span><span class="citation-popover-snippet">DCA Reagan National-Aircraft Noise TerminologyInstrument Meterological Conditions (IMC): Weather conditions expressed in terms of visibil...</span></span></span>
+* When sound is carried away from observers.
+* When background environmental noise masks the source.
+* When observers are inside vehicles or buildings.
 
 </div>
 
-At the same time, numerous other reports describe humming, buzzing, crackling or [low-frequency]({{ 'low-frequency/' | relative_url }}) vibration. Even historical UFO researchers noted that the "silent UFO" image became so influential that investigators sometimes gave less attention to cases involving reported sounds, despite both types appearing in witness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufoe/section_8.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[Nicap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">section 8</span><span class="citation-popover-snippet">section_8January 1, 1964...</span><span class="citation-popover-meta">Published: January 1, 1964</span></span></span>
+Researchers examining the Belgian UFO wave specifically suggested that some reports of silent objects could have been influenced by witnesses hearing little or no engine noise because of wind conditions or because they were [inside cars]({{ 'inside-cars/' | relative_url }}) where ambient noise masked external sounds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-The historical record therefore contains inconsistency rather than a single recurring acoustic pattern.
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SbQhrIRCs-c" title="This European UFO Was Spotted by Thousands of People | Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer">This European UFO Was Spotted by Thousands of People | Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 7.6K &middot; Uploaded: January 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SbQhrIRCs-c">Open on YouTube</a></p></div></div></div>
 
+## Distance and Atmospheric Masking
 
+One reason silence features so heavily in UFO reports is that humans are generally poor at estimating the distance of lights in the night sky.
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-dark.svg" | relative_url }}" alt="Silent Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+A bright light can appear close even when it is many kilometres away. If observers believe an object is directly overhead when it is actually distant, they may expect a level of sound that would never realistically reach them.
 
-## Modern UAP investigations and the silence question
-
-Recent government investigations illustrate an important distinction between **witness description** and **investigative conclusion**.
-
-Some cases published by the U.S. All-domain Anomaly Resolution Office (AARO) include eyewitness statements that observed lights or orbs were "silent" or that no sound was heard during prolonged observations. These descriptions are preserved because they form part of the original [witness accounts]({{ 'witness-accounts/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Next - AARO UAP Report DocumentsMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
-
-However, AARO does not treat silence as evidence of advanced propulsion or non-human technology. Instead, reports are analysed alongside radar information, infrared imagery, weather conditions, aircraft activity and other sensor data where available. The office has repeatedly stated that unresolved cases generally reflect insufficient information rather than evidence for extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarDOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of Defense &gt; Defense Department New...</span></span></span>(https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
-
-This distinction is central to understanding the paradox: silence is documented as a reported characteristic, but not as a validated diagnostic feature.
-
-## Why the paradox remains unresolved
-
-The silent UFO paradox persists because two competing interpretations remain possible in many individual cases.
-
-One interpretation argues that genuinely nearby objects performing extraordinary manoeuvres without sound would imply propulsion unlike conventional aviation.
-
-The other argues that the apparent contradiction disappears if one or more assumptions are wrong—for example:
-
+Atmospheric masking can reinforce that impression. Aircraft-noise studies show that sound propagation is affected by temperature, humidity, terrain and wind. Noise may weaken, scatter or travel unevenly across large distances. Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://ascent.aero/partner-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascent.aero">[ascent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascent.aero</span><span class="citation-popover-title">Project 1 &#124; Low Frequency Noise Study</span><span class="citation-popover-snippet">It encompassed many factors, including the source level and its...Read more...</span></span></span> This creates situations where:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* the object was much farther away than believed;
-* its speed was overestimated;
-* it was an ordinary aircraft viewed under unusual atmospheric conditions;
-* the witness observed an optical or atmospheric phenomenon rather than a physical craft.
+* A visible aircraft is heard only faintly.
+* Noise seems disconnected from the visible source.
+* Sound arrives from a different direction than expected.
+* A witness perceives an aircraft as silent.
 
 </div>
 
-Without independent measurements of range, velocity and acoustic environment, these competing explanations are difficult to separate.
+Modern aviation noise research exists largely because sound transmission is complex and often counterintuitive. Airports and regulators use detailed modelling systems precisely because noise does not spread evenly through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Noisequest For UFO reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Belgian UFO Wave &#124; Case File 349Feb 10, 2025 — In the dark, winter skies of 1989 and stretching into 1990, Belgium became the epicenter o...</span></span></span>, that means silence alone is not strong evidence that an object lacked propulsion. It may instead reflect how sound travelled between the source and the observer.
 
+<img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-dark.svg" | relative_url }}" alt="Silence illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Missing Sonic Boom Problem
 
+Some of the most dramatic silent UFO accounts involve objects that allegedly moved at extraordinary speeds.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 59:23">59:23</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
+In conventional physics, an object travelling faster than sound generates a sonic boom. Yet many UFO reports describe rapid acceleration, sudden direction changes or high-speed flight without any corresponding explosive noise.
 
-## What silence can and cannot tell us
+This is one reason silence occupies such an important place in UFO debates. The issue is not merely that witnesses heard nothing. It is that some reports combine silence with flight characteristics that would normally be expected to produce substantial sound.
 
-Silence is an interesting observational feature, but by itself it has limited evidential value.
+Sceptics point out that witness estimates of speed are often unreliable, especially at night. If observers misjudge distance, they can dramatically overestimate velocity. A distant light moving slowly can appear to make impossible manoeuvres when viewed without depth cues.
 
-It **can** indicate that:
+Believers, by contrast, often argue that the absence of sonic [booms]({{ 'booms/' | relative_url }}) is exactly what makes certain cases unusual. In that interpretation, silence is treated as a potentially significant feature rather than a missing observation.
 
+The difficulty is that most cases lack the instrument data needed to determine the object's actual speed, altitude or trajectory. Without those measurements, it is rarely possible to know whether a sonic boom should have occurred in the first place.
 
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Om0d0u1ASJY" title="The Impossible to Debunk UFO Events" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Om0d0u1ASJY" target="_blank" rel="noopener noreferrer">The Impossible to Debunk UFO Events</a></p><p class="youtube-embed-meta">Channel: Good Enough &middot; Views: 712.9K &middot; Uploaded: October 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Om0d0u1ASJY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Om0d0u1ASJY">Open on YouTube</a></p></div></div></div>
 
-* the observer perceived no audible engine or propulsion noise;
-* environmental conditions may have affected sound transmission;
-* the event differs from expectations for nearby conventional aircraft.
+## The Belgian UFO Wave and the Silence Narrative
+
+Few UFO episodes illustrate the role of silence better than the Belgian UFO wave.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+
+Between late 1989 and 1990, thousands of people reported seeing unusual aerial objects, often described as triangular and illuminated. Witnesses repeatedly claimed the objects moved slowly and quietly, despite appearing large and relatively low.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Belgian UFO</span><span class="citation-popover-snippet">Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</span></span></span> The silence became one of the defining characteristics of the sightings. Reports commonly described:
+
+* Large triangular forms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</span></span></span> * Bright corner lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</span></span></span>
+* Slow, controlled movement.
+* Little or no audible engine noise.
+
+However, the Belgian wave also demonstrates why silence is difficult to interpret. Investigations uncovered hoaxes, misidentifications and disputed evidence. The famous Petit-Rechain triangle photograph, once considered a strong piece of evidence, was later admitted to be a fabrication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+
+Researchers who favoured conventional explanations argued that helicopters, aircraft, atmospheric conditions and witness expectations could explain at least part of the silence narrative. Others maintained that the volume and consistency of witness testimony made the reports noteworthy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+
+The case remains influential because it shows how silence can become a central feature of a mass sighting event even when the underlying explanations remain disputed.
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-3-dark.svg" | relative_url }}" alt="Silence illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Silent Flight as UFO Lore
+
+Over time, silent flight has evolved from a recurring observation into one of the defining images of UFO culture.
+
+Films, television programmes, books and witness compilations frequently describe UFOs as gliding noiselessly through the sky. The image differs sharply from conventional aircraft, which are associated with engines, rotor blades, exhaust and vibration.
+
+This cultural expectation may influence later reports. Once people become familiar with the idea that UFOs are silent, they may pay more attention to missing noise during unusual sightings. Psychologists studying perception have long noted that expectations can shape how events are interpreted and remembered.
+
+That does not mean witnesses are inventing what they saw. Rather, unusual experiences are often filtered through existing mental frameworks. A person who notices an unfamiliar light may later remember not only its appearance but also the striking absence of expected sound.
+
+The result is a feedback loop:
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. Reports describe silent objects.
+2. Popular culture adopts silent UFO imagery.
+3. New witnesses become aware of that expectation.
+4. Silence becomes an even more noticeable feature in later reports.
 
 </div>
 
-It **cannot**, on its own, establish that:
+## Why Silence Remains an Unresolved Detail
 
+Silence is one of the most intriguing aspects of UFO testimony because it sits between perception and physics.
 
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+On one hand, there are well-understood reasons why aircraft, helicopters and distant lights can appear quieter than expected. Atmospheric conditions, observer location and human judgement can all create the impression of silent flight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</span></span></span>
 
-* an object was using unknown propulsion;
-* the estimated distance or speed was correct;
-* the object was extraterrestrial or technologically exotic.
+On the other hand, the persistence of silent-object reports across decades has made the theme difficult to dismiss entirely. Large numbers of witnesses in unrelated cases have independently highlighted the same feature: something that looked as though it should make noise did not seem to make any.
 
-</div>
+That does not prove the existence of extraordinary technology. It does explain why silence remains such a durable element of UFO reports. The mystery is not merely what people claim to have seen, but why so many accounts describe a missing sound that observers strongly expected to hear.
 
-Scientific investigations place greatest weight on multiple independent sources of evidence—such as calibrated sensors, radar, imagery and corroborating observations—rather than on any single reported characteristic, including silence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarDOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of Defense &gt; Defense Department New...</span></span></span>(https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
-
-
-
-<img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-3-dark.svg" | relative_url }}" alt="Silent Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-## Why silent sightings matter within the study of UFO noises
-
-At first glance, a page about UFO noises might seem incompatible with silent sightings. In reality, the contrast is exactly what makes them significant.
-
-Reports of mysterious humming, buzzing or booming attempt to identify an unusual acoustic signature. Silent sightings raise the opposite question: why would an apparently nearby aerial object produce no detectable sound at all?
-
-The available evidence shows that both noisy and silent reports exist, but neither forms a consistent pattern across documented UAP cases. Instead of revealing a distinctive "UFO sound" or a definitive absence of sound, the record points to a mixture of human [perception]({{ 'perception/' | relative_url }}), environmental acoustics, ordinary aerial objects, and a smaller number of incidents that remain unexplained because the available data are insufficient for confident identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarDOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of Defense &gt; Defense Department New...</span></span></span>
-
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 12:52">12:52</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UBlJlBQdv5w" title="Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer">Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox</a></p><p class="youtube-embed-meta">Channel: Danny Jones Clips &middot; Views: 25.7K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UBlJlBQdv5w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -567,21 +497,21 @@ The available evidence shows that both noisy and silent reports exist, but neith
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to Why Do So Many UFO Reports Describe Silence?. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to Why Are Some UFOs Reported Silent?. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook%3A+A+Guide+to+Investigating%2C+Evaluating%2C+and+Reporting+UFO+Sightings+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook: A Guide to Investigating, Evaluating, and Reporting UFO Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook: A Guide to Investigating, Evaluating, and Reporting UFO Sightings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Handbook%3A+A+Guide+to+Investigating%2C+Evaluating%2C+and+Reporting+UFO+Sightings+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook: A Guide to Investigating, Evaluating, and Reporting UFO Sightings">The UFO Handbook: A Guide to Investigating, Evaluating, and R...</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
-<p class="fr-book-author">By Allan Hendry</p>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-<p class="fr-book-desc">An explanation of the usual reasons for confusing IFOs (identified flying objects) with UFOs and a survey of the tools used to investigat...</p>
+<p class="fr-book-desc">Examines witness reports and recurring UFO characteristics.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Handbook%3A+A+Guide+to+Investigating%2C+Evaluating%2C+and+Reporting+UFO+Sightings+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -589,16 +519,16 @@ The available evidence shows that both noisy and silent reports exist, but neith
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
-<p class="fr-book-author">By Joseph Allen Hynek</p>
+<p class="fr-book-author">By Leslie Kean</p>
         
-<p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
+<p class="fr-book-desc">Includes many high-profile cases involving unusual flight characteristics and silence.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -606,16 +536,16 @@ The available evidence shows that both noisy and silent reports exist, but neith
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sound Book: The Science of the Sonic Wonders of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rATGAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sound Book: The Science of the Sonic Wonders of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+<a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sound Book: The Science of the Sonic Wonders of the World">The Sound Book: The Science of the Sonic Wonders of the World</a>
 </h4>
-<p class="fr-book-author">By Philip J. Klass</p>
+<p class="fr-book-author">By Trevor Cox</p>
         
-<p class="fr-book-desc">Analyzing several UFO cases, the author exposes the myth of extraterrestrial visitors to earth.</p>
+<p class="fr-book-desc">Explains why expected sounds may not be heard.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -623,16 +553,16 @@ The available evidence shows that both noisy and silent reports exist, but neith
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla%3A+How+Our+Intuitions+Deceive+Us+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla: How Our Intuitions Deceive Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla: How Our Intuitions Deceive Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla%3A+How+Our+Intuitions+Deceive+Us+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla: How Our Intuitions Deceive Us">The Invisible Gorilla: How Our Intuitions Deceive Us</a>
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
 </h4>
-<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Our minds don’t work the way we think they do. Two renowned psychologists explain how and why our intuitions...</p>
+<p class="fr-book-desc">Covers modern cases often involving silent or unusual craft reports.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla%3A+How+Our+Intuitions+Deceive+Us+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -640,7 +570,7 @@ The available evidence shows that both noisy and silent reports exist, but neith
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+%3A+A+to+Investigating%2C+Evaluating%2C+and+Reporting+UFO+Sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO : A to Investigating, Evaluating, and Reporting UFO Sightings books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sound Book: The Science of the Sonic Wonders of the World</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
@@ -653,7 +583,7 @@ The available evidence shows that both noisy and silent reports exist, but neith
 <p class="fr-section-kicker">eBay marketplace picks</p>
 <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
 </div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
 <div class="fr-ebay-market-toolbar">
 <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -674,75 +604,74 @@ The available evidence shows that both noisy and silent reports exist, but neith
 </div>
 
 <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">UFO poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
 <div class="fr-books-grid">
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt"><img src="{{ '/assets/images/marketplace-covers/397bfca46f7d800bea36.jpg' | relative_url }}" alt="Listing image for Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.76 | Free shipping</span><span>New</span><span>Seller: andys-prints-uk (99.7% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX"><img src="{{ '/assets/images/marketplace-covers/b3001a89fdc03d71bcae.jpg' | relative_url }}" alt="Listing image for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.95 | Free shipping</span><span>New</span><span>Seller: mintprint77 (100.0% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47"><img src="{{ '/assets/images/marketplace-covers/2c7f412c91bbad7dd1e0.jpg' | relative_url }}" alt="Listing image for First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171."><img src="{{ '/assets/images/marketplace-covers/478f9b6c413daf1586b4.jpg' | relative_url }}" alt="Listing image for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171." loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Current eBay listing</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171.</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.97 | Free shipping</span><span>New</span><span>Seller: forgevalleyprint (98.6% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="silent-sightings-why-do-so-many-ufo-reports-describe-silence-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -956,106 +885,108 @@ The available evidence shows that both noisy and silent reports exist, but neith
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: nicap.org  
-   Title: section 8  
-   Link:<a href="https://www.nicap.org/ufoe/section_8.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_8.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>section_8January 1, 1964...</p></details>
-   Published: January 1, 1964  
+   Source: Wikipedia  
+   Title: Belgian UFO wave  
+   Link:<a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
 2.<a id="endnote-2"></a>
-   Source: nicap.org  
-   Title: Ufology-Chapter 4  
-   Link:<a href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufology/ufochap4.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology-Chapter 4...</p></details>
+   Source: unsolved.com  
+   Title: Mysteries Belgian UFO  
+   Link:<a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</p></details>
 
 3.<a id="endnote-3"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Next - AARO UAP Report DocumentsMay 8, 2026...</p></details>
-   Published: May 8, 2026  
+   Source: faa.gov  
+   Link:<a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/community</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</p></details>
 
 4.<a id="endnote-4"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Report DocumentsMay 8, 2026 — + Expand row details | 05/08/2026 | PR-048 | PR-048 | The United States Indo-Pacific Command submi...</p></details>
-   Published: May 8, 2026  
+   Source: faa.gov  
+   Title: aircraft noise  
+   Link:<a href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aircraft_noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAircraft Noise31 Jan 2025 — Noise exposure reduction. The number of people exposed to significant noise le...</p></details>
 
 5.<a id="endnote-5"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The object’s morphological features, performance characteristics, and behaviors are unremarkable and do...</p></details>
+   Source: ascent.aero  
+   Title: Project 1 | Low Frequency Noise Study  
+   Link:<a href="https://ascent.aero/partner-1/" target="_blank" rel="noopener noreferrer nofollow">https://ascent.aero/partner-1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It encompassed many factors, including the source level and its...Read more...</p></details>
 
 6.<a id="endnote-6"></a>
-   Source: nicap.org  
-   Link:<a href="https://www.nicap.org/rufo/rufo-08.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/rufo/rufo-08.htm</a>  
+   Source: faa.gov  
+   Link:<a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/basics" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/basics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentals of Noise and Sound29 Mar 2022 — DNL is the standard noise metric used for all FAA studies of aviation noise exposure in airp...</p></details>
 
 7.<a id="endnote-7"></a>
-   Source: aaro.mil  
-   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Source: faa.gov  
+   Link:<a href="https://www.faa.gov/noise/levels" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/levels</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Noise Levels &amp; Stages22 Jul 2022 — The FAA regulates the maximum noise level that an individual civil aircraft can emit through...</p></details>
 
 8.<a id="endnote-8"></a>
-   Source: defense.gov  
-   Link:<a href="https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarDOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of Defense &gt; Defense Department New...</p></details>
+   Source: faa.gov  
+   Title: community response  
+   Link:<a href="https://www.faa.gov/noise/aviation_noise/community_response" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aviation_noise/community_response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Noise22 Jul 2022 — Using the day-night average sound level. To describe the effects of environmental noise in a simple, uniform and ap...</p></details>
 
 9.<a id="endnote-9"></a>
-   Source: defense.gov  
-   Link:<a href="https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Source: podcasts.apple.com  
+   Link:<a href="https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave | Case File 349Feb 10, 2025 — In the dark, winter skies of 1989 and stretching into 1990, Belgium became the epicenter o...</p></details>
 
 10.<a id="endnote-10"></a>
-   Source: defense.gov  
-   Link:<a href="https://www.defense.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
+   Source: skeptoid.com  
+   Link:<a href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/538</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</p></details>
 
 ### Additional References
 
 11.<a id="endnote-11"></a>
-   Source: reuters.com  
-   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5437751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5437751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Impacts: State of the Science - PMCby M Basner · 2017 · Cited by 300 — Aircraft noise is one, if not the most detrimental environme...</p></details>
 
 12.<a id="endnote-12"></a>
-   Source: science.nasa.gov  
-   Title: Trump’s direction for whole-of-government transparency and will alw  
-   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQs - NASA ScienceMay 8, 2026 — UAP FAQS NASA UNIDENTIFIED ANOMALOUS PHENOMENA STUDY Frequently Asked Questions ​&lt; Back to UAP NASA appl...</p></details>
-   Published: May 8, 2026  
+   Source: flylakeland.com  
+   Link:<a href="https://www.flylakeland.com/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.flylakeland.com/aircraft-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseFor example, changes in outside air temperature can influence how far noise travels as well as how quickly an aircraft clim...</p></details>
 
 13.<a id="endnote-13"></a>
-   Source: science.nasa.gov  
-   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceFebruary 23, 2026 — Explore This Section UAP CONTENTS * NASA Unidentified Anomalous Phenomena Independent Study * Final Repor...</p></details>
-   Published: February 23, 2026  
+   Source: medium.com  
+   Link:<a href="https://medium.com/faa/cutting-through-all-the-noise-4f99910f918c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/cutting-through-all-the-noise-4f99910f918c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cutting Through All the Noise. How the FAA is Working...The FAA began using a DNL of 65 dBA as a threshold for significant noise exposur...</p></details>
 
 14.<a id="endnote-14"></a>
-   Source: youtube.com  
-   Title: Replay! NASA's Release of the Unidentified Anomalous Phenomena Report  
-   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference...</p></details>
+   Source: flyreagan.com  
+   Link:<a href="https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology" target="_blank" rel="noopener noreferrer nofollow">https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DCA Reagan National-Aircraft Noise TerminologyInstrument Meterological Conditions (IMC): Weather conditions expressed in terms of visibil...</p></details>
 
 15.<a id="endnote-15"></a>
-   Source: youtube.com  
-   Title: UAP Independent Study Event Post-Meeting Media Teleconference  
-   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Refraction of Sound: How Sound Waves Bend Through Different Media...</p></details>
+   Source: noisequest.psu.edu  
+   Link:<a href="https://www.noisequest.psu.edu/noisebasics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.noisequest.psu.edu/noisebasics.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noise BasicsThe FAA&#x27;s Aviation Environmental Design Tool (AEDT) is a new software tool consisting of models to evaluate how noi...</p></details>
 
 16.<a id="endnote-16"></a>
-   Source: youtube.com  
-   Title: Refraction of Sound: How Sound Waves Bend Through Different Media  
-   Link:<a href="https://www.youtube.com/watch?v=4_B_pTxlQvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_B_pTxlQvE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
+   Source: spyscape.com  
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesSome believe that the sightings were genuine encounters with extraterrestrial c...</p></details>
 
 17.<a id="endnote-17"></a>
-   Source: uap-archive.org  
-   Link:<a href="https://uap-archive.org/uap/records/aaro-historical-record-report-vol1/" target="_blank" rel="noopener noreferrer nofollow">https://uap-archive.org/uap/records/aaro-historical-record-report-vol1/</a>  
+   Source: dfw.noiselab.casper.aero  
+   Link:<a href="https://dfw.noiselab.casper.aero/content/1/about-aircraft-noise/1" target="_blank" rel="noopener noreferrer nofollow">https://dfw.noiselab.casper.aero/content/1/about-aircraft-noise/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseThe level of noise generated varies according to aircraft size and type and can differ even for identical aircraft dependin...</p></details>
 
 18.<a id="endnote-18"></a>
-   Source: uap-archive.org  
-   Link:<a href="https://uap-archive.org/uap/learn/aaro-case-resolution-reports-overview/" target="_blank" rel="noopener noreferrer nofollow">https://uap-archive.org/uap/learn/aaro-case-resolution-reports-overview/</a>  
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
 
 19.<a id="endnote-19"></a>
-   Source: narcap.org  
-   Link:<a href="https://www.narcap.org/blog/definition-of-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/blog/definition-of-uap</a>  
+   Source: theweek.com  
+   Title: 30 years later still dont know what really happened during belgian ufo wave  
+   Link:<a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years laterMar 30, 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myst...</p></details>
 
 20.<a id="endnote-20"></a>
-   Source: narcap.org  
-   Link:<a href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/technical-reports</a>  
+   Source: medium.com  
+   Title: tr 3b black triangle ufo reverse engineering or sdi legacy 948e6cb35751  
+   Link:<a href="https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TR-3B Black Triangle UFO: Reverse-Engineering or SDI...The modern Black Triangle narrative ignites in late-1989 Belgium, where police lo...</p></details>

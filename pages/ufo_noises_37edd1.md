@@ -2,22 +2,22 @@
 level: 1
 basename: ufo_noises_37edd1
 child_basenames:
-- ufo_noises_37edd1_aircraft_noise_ufo_r_eb7708
-- ufo_noises_37edd1_atmospheric_sound_di_bbf0b8
-- ufo_noises_37edd1_directionless_low_fr_e1572c
-- ufo_noises_37edd1_earthquake_booms_sen_b78e20
-- ufo_noises_37edd1_expectation_memory_u_a9ca21
-- ufo_noises_37edd1_identify_overhead_so_59e810
+- ufo_noises_37edd1_acoustic_monitoring_609fad
+- ufo_noises_37edd1_aircraft_sound_mista_f42cc5
+- ufo_noises_37edd1_atmospheric_acoustic_8ad214
+- ufo_noises_37edd1_buzzing_electrical_c_877b01
+- ufo_noises_37edd1_humming_ufo_reports_8a7cf2
 - ufo_noises_37edd1_index
-- ufo_noises_37edd1_low_humming_ufo_repo_696a32
-- ufo_noises_37edd1_meteor_booms_ufo_sou_217887
-- ufo_noises_37edd1_official_uap_acousti_843736
-- ufo_noises_37edd1_record_unexplained_s_403e7e
-- ufo_noises_37edd1_reported_ufo_sound_p_8e97ba
+- ufo_noises_37edd1_industrial_noise_mis_f8566f
+- ufo_noises_37edd1_infrasound_ufo_sensa_380040
+- ufo_noises_37edd1_mystery_booms_ufo_329ad9
+- ufo_noises_37edd1_record_check_ufo_noi_a48df5
 - ufo_noises_37edd1_silent_ufo_sightings_76971d
-- ufo_noises_37edd1_the_hum_ufo_speculat_3d3c0a
-- ufo_noises_37edd1_ufo_buzzing_vs_drone_7576a5
-- ufo_noises_37edd1_ufo_sound_myths_evid_b76e68
+- ufo_noises_37edd1_sky_trumpet_videos_7ce948
+- ufo_noises_37edd1_sonic_boom_claims_e68177
+- ufo_noises_37edd1_taos_hum_ufo_specula_b823ea
+- ufo_noises_37edd1_ufo_noise_folklore_7b3b2f
+- ufo_noises_37edd1_witness_memory_sound_0c49e1
 sibling_basenames: []
 tags:
 - ufo-noises
@@ -25,26 +25,24 @@ keywords:
 - ufo-noises
 affiliate_category: ufo-noises
 show_ads: true
-description: Reports of strange "UFO noises" have circulated for decades, often describing deep humming, metallic droning, booming explosions, or eerie trumpet-like...
-hero_summary: Reports of strange "UFO noises" have circulated for decades, often describing deep humming, metallic droning, booming explosions, or eerie trumpet-like sounds that appear to come from the sky.
+description: People who report UFOs often describe more than lights in the sky.
+hero_summary: 'People who report UFOs often describe more than lights in the sky. A recurring feature in many sightings is sound: humming, buzzing, clicking, roaring, whistling, metallic vibrations, low-frequency droning and, in some cases, complete silence where noise would normally be expected.'
 layout: default
 permalink: /ufo-noises/
-nav_short_title: UFO Noises
-title: UFO Noises
-title_full: UFO Noises
-display_title_short: UFO Noises
-display_title: UFO Noises
-source_count: 39
+nav_short_title: What Do UFO Witnesses Hear?
+title: What Do UFO Witnesses Hear?
+title_full: What Do UFO Witnesses Hear?
+display_title_short: What Do UFO Witnesses Hear?
+display_title: What Do UFO Witnesses Hear?
+heading_title: What Do UFO Witnesses Hear?
+page_heading_title: What Do UFO Witnesses Hear?
+source_count: 36
 infographic_count: 3
 page_website_name: UFO Noises
-page_banner_line: Investigate strange sky sounds, famous recordings, and the evidence behind their likely causes.
+page_banner_line: Strange sky sounds, witness reports, acoustic clues, and grounded explanations.
 site_website_name: UFO Noises
-site_banner_line: Investigate strange sky sounds, famous recordings, and the evidence behind their likely causes.
-site_visual_identity: signal-cobalt
-site_visual_identity_confidence: high
-site_visual_motif: constellation
-site_typography_tone: technical
-site_image_description: A quiet suburban street beneath a cloudy night sky as residents look upward toward an unseen of a deep aerial sound.
+site_banner_line: Strange sky sounds, witness reports, acoustic clues, and grounded explanations.
+site_image_description: A quiet rural road at night with a glowing unidentified light above the horizon and a person holding an audio recorder toward the...
 output_language: English
 lang: en
 locale: en
@@ -188,23 +186,7 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
-  report_details: Report details
-  report_actions: Report actions
-  sources: sources
-  graphics: graphics
-  share_page: Share
-  copy_link: Copy link
-  download_social_image: Download image
-  cite_page: Cite page
-  print_save: Print / save
-  share_opened: Share dialog opened
-  share_unavailable: Sharing unavailable; link copied
-  social_image_downloaded: Image download started
-  link_copied: Link copied
-  citation_copied: Citation copied
-  copy_failed: Copy failed
   topics: Topics
-  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -222,264 +204,216 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-30 16:56:28'
+date: '2026-05-31 04:55:02'
 child_links:
-- basename: ufo_noises_37edd1_aircraft_noise_ufo_r_eb7708
-  title: Aircraft Noise | UFO Noises
-  permalink: /aircraft-noise/
-  short_title: Aircraft Noise
-  heading_title: When Aircraft Noise Sounds Like a UFO
-- basename: ufo_noises_37edd1_ufo_buzzing_vs_drone_7576a5
-  title: Drones | UFO Noises
-  permalink: /drones/
-  short_title: Drones
-  heading_title: Could That Buzzing UFO Be a Drone?
-- basename: ufo_noises_37edd1_earthquake_booms_sen_b78e20
-  title: Earth Booms | UFO Noises
-  permalink: /earth-booms/
-  short_title: Earth Booms
-  heading_title: Can Earthquakes Sound Like UFOs Overhead?
-- basename: ufo_noises_37edd1_identify_overhead_so_59e810
-  title: Identify Sources | UFO Noises
-  permalink: /identify-sources/
-  short_title: Identify Sources
-  heading_title: A Practical Check Before Calling It a UFO
-- basename: ufo_noises_37edd1_directionless_low_fr_e1572c
-  title: Low Frequency | UFO Noises
-  permalink: /low-frequency/
-  short_title: Low Frequency
-  heading_title: Why Strange Hums Seem to Come From Everywhere
-- basename: ufo_noises_37edd1_low_humming_ufo_repo_696a32
-  title: Low Hums | UFO Noises
-  permalink: /low-hums/
-  short_title: Low Hums
-  heading_title: What Causes the Low Hum in UFO Reports?
-- basename: ufo_noises_37edd1_meteor_booms_ufo_sou_217887
-  title: Meteor Booms | UFO Noises
-  permalink: /meteor-booms/
-  short_title: Meteor Booms
-  heading_title: How Meteors Create UFO Like Booms
-- basename: ufo_noises_37edd1_ufo_sound_myths_evid_b76e68
-  title: Myths | UFO Noises
-  permalink: /myths/
-  short_title: Myths
-  heading_title: Can Any Sound Prove a UFO Is Extraordinary?
-- basename: ufo_noises_37edd1_official_uap_acousti_843736
-  title: Official Files | UFO Noises
-  permalink: /official-files/
-  short_title: Official Files
-  heading_title: Do Official UAP Files Reveal a Unique Sound?
-- basename: ufo_noises_37edd1_expectation_memory_u_a9ca21
-  title: Perception | UFO Noises
-  permalink: /perception/
-  short_title: Perception
-  heading_title: How Expectation Shapes UFO Sound Memories
-- basename: ufo_noises_37edd1_record_unexplained_s_403e7e
+- basename: ufo_noises_37edd1_aircraft_sound_mista_f42cc5
+  title: Aircraft | UFO Noises
+  permalink: /aircraft/
+  short_title: Aircraft
+  heading_title: When Aircraft Sounds Become UFO Stories
+- basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214
+  title: Atmosphere | UFO Noises
+  permalink: /atmosphere/
+  short_title: Atmosphere
+  heading_title: When Ordinary Sounds Come From the Sky
+- basename: ufo_noises_37edd1_mystery_booms_ufo_329ad9
+  title: Booms | UFO Noises
+  permalink: /booms/
+  short_title: Booms
+  heading_title: What Causes Mystery Booms in the Sky?
+- basename: ufo_noises_37edd1_buzzing_electrical_c_877b01
+  title: Buzzing | UFO Noises
+  permalink: /buzzing/
+  short_title: Buzzing
+  heading_title: Are Buzzing UFO Sounds Really Electrical?
+- basename: ufo_noises_37edd1_ufo_noise_folklore_7b3b2f
+  title: Folklore | UFO Noises
+  permalink: /folklore/
+  short_title: Folklore
+  heading_title: How UFO Sounds Became Folklore
+- basename: ufo_noises_37edd1_humming_ufo_reports_8a7cf2
+  title: Humming | UFO Noises
+  permalink: /humming/
+  short_title: Humming
+  heading_title: Why Do So Many UFOs Hum?
+- basename: ufo_noises_37edd1_industrial_noise_mis_f8566f
+  title: Industry | UFO Noises
+  permalink: /industry/
+  short_title: Industry
+  heading_title: Could That UFO Noise Be Machinery?
+- basename: ufo_noises_37edd1_infrasound_ufo_sensa_380040
+  title: Infrasound | UFO Noises
+  permalink: /infrasound/
+  short_title: Infrasound
+  heading_title: Could Infrasound Explain UFO Vibrations?
+- basename: ufo_noises_37edd1_witness_memory_sound_0c49e1
+  title: Memory | UFO Noises
+  permalink: /memory/
+  short_title: Memory
+  heading_title: How Memory Changes UFO Sounds
+- basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5
   title: Record It | UFO Noises
   permalink: /record-it/
   short_title: Record It
-  heading_title: How to Document a Strange Sound Overhead
+  heading_title: How Should You Record a UFO Noise?
+- basename: ufo_noises_37edd1_acoustic_monitoring_609fad
+  title: Sensors | UFO Noises
+  permalink: /sensors/
+  short_title: Sensors
+  heading_title: Can Sensors Catch UFO Noises?
 - basename: ufo_noises_37edd1_silent_ufo_sightings_76971d
-  title: Silent Sightings | UFO Noises
-  permalink: /silent-sightings/
-  short_title: Silent Sightings
-  heading_title: Why Do So Many UFO Reports Describe Silence?
-- basename: ufo_noises_37edd1_reported_ufo_sound_p_8e97ba
-  title: Sound Reports | UFO Noises
-  permalink: /sound-reports/
-  short_title: Sound Reports
-  heading_title: What Sounds Do UFO Witnesses Actually Report?
-- basename: ufo_noises_37edd1_atmospheric_sound_di_bbf0b8
-  title: Sound Travel | UFO Noises
-  permalink: /sound-travel/
-  short_title: Sound Travel
-  heading_title: How Weather Makes Sky Sounds Seem Mysterious
-- basename: ufo_noises_37edd1_the_hum_ufo_speculat_3d3c0a
-  title: The Hum | UFO Noises
-  permalink: /the-hum/
-  short_title: The Hum
-  heading_title: Is The Hum Connected to UFOs?
-has_inline_related_reports_panel: true
+  title: Silence | UFO Noises
+  permalink: /silence/
+  short_title: Silence
+  heading_title: Why Are Some UFOs Reported Silent?
+- basename: ufo_noises_37edd1_sky_trumpet_videos_7ce948
+  title: Sky Trumpets | UFO Noises
+  permalink: /sky-trumpets/
+  short_title: Sky Trumpets
+  heading_title: What Are Sky Trumpet Sounds?
+- basename: ufo_noises_37edd1_sonic_boom_claims_e68177
+  title: Sonic Booms | UFO Noises
+  permalink: /sonic-booms/
+  short_title: Sonic Booms
+  heading_title: Can UFOs Break Sound Without Booms?
+- basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea
+  title: Taos Hum | UFO Noises
+  permalink: /taos-hum/
+  short_title: Taos Hum
+  heading_title: Why Is the Taos Hum Linked to UFOs?
 header:
-  og_image: /assets/images/ufo_noises_37edd1-overview-social-card.jpg
+  og_image: /assets/images/ufo_noises_37edd1-overview-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1-overview.webp
-share_hook: Reports of strange "UFO noises" have circulated for decades, often describing deep humming, metallic droning, booming explosions, or eerie...
-image: /assets/images/ufo_noises_37edd1-overview-social-card.jpg
+image: /assets/images/ufo_noises_37edd1-overview-social.jpg
 ---
 
-## What people mean by "UFO noises"
+## Introduction
 
-Descriptions of alleged UFO noises vary considerably. Witnesses commonly report:
-
-
+The difficulty is that sound is one of the hardest parts of a UFO report to verify. Visual evidence can sometimes be photographed, radar data can occasionally be obtained, but many unusual sounds leave no recording and no measurable trace. As a result, UFO noises remain one of the most intriguing and least conclusive parts of the broader UFO phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1-overview.webp" | relative_url }}" alt="Overview image for UFO Noises" loading="eager" decoding="sync" fetchpriority="high">
+## What UFO Witnesses Commonly Hear
 
-* A [low-frequency]({{ 'low-frequency/' | relative_url }}) hum that seems to come from above.
+Across decades of reports, certain descriptions appear repeatedly.
 
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+Witnesses often describe:
 
-* Loud explosive booms without visible aircraft or storms.
-* Metallic grinding or scraping sounds.
-* Long, horn-like or trumpet-like tones.
-* Pulsing vibrations that can sometimes be felt indoors.
+* A low [humming]({{ 'humming/' | relative_url }}) or vibrating sound, similar to distant machinery.
+* A buzzing noise, sometimes compared to electrical equipment.
+* A high-pitched whine or flute-like tone.
+* A rushing or whooshing sound.
+* Pulsing vibrations felt as much as heard.
+* Sudden explosive [booms]({{ 'booms/' | relative_url }}).
+* Total silence despite apparent high speed or large size.
 
-</div>
+The consistency of some descriptions is notable. Researchers and UFO catalogues have documented reports in which witnesses independently describe a similar buzzing or humming quality. In some cases, the sound is reported before the object is seen; in others, people report feeling vibration through the ground or their bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Wha is the significance of the buzzing or flute sound...February 27, 2023 — Wha is the significance of the buzzing or flute sound...</span><span class="citation-popover-meta">Published: February 27, 2023</span></span></span>
 
-The diversity of these reports is important. Unlike well-defined natural phenomena such as thunder or sonic booms, there is no single acoustic signature consistently associated with UFO sightings. The sounds differ in duration, pitch, volume, weather conditions and accompanying visual observations.
-
-
-
-<!-- HIERARCHY_NAV_START -->
-<aside class="related-reports" aria-label="Related pages">
-<h2>Follow this branch</h2>
-<div class="related-reports-grid">
-<section class="related-reports-section related-reports-section-closest">
-<h3>Closest pages</h3>
-<ul>
-<li><a href="{{ '/identify-sources/' | relative_url }}"><span class="article-branch-link-short">Identify Sources</span><span class="article-branch-link-heading">A Practical Check Before Calling It a UFO</span></a></li>
-<li><a href="{{ '/silent-sightings/' | relative_url }}"><span class="article-branch-link-short">Silent Sightings</span><span class="article-branch-link-heading">Why Do So Many UFO Reports Describe Silence?</span></a></li>
-<li><a href="{{ '/aircraft-noise/' | relative_url }}"><span class="article-branch-link-short">Aircraft Noise</span><span class="article-branch-link-heading">When Aircraft Noise Sounds Like a UFO</span></a></li>
-<li><a href="{{ '/official-files/' | relative_url }}"><span class="article-branch-link-short">Official Files</span><span class="article-branch-link-heading">Do Official UAP Files Reveal a Unique Sound?</span></a></li>
-<li><a href="{{ '/low-frequency/' | relative_url }}"><span class="article-branch-link-short">Low Frequency</span><span class="article-branch-link-heading">Why Strange Hums Seem to Come From Everywhere</span></a></li>
-</ul>
-</section>
-</div>
-</aside>
-<!-- HIERARCHY_NAV_END -->
-
-Many widely shared internet videos labelled as "UFO sounds" actually contain recordings with little verifiable information about where or when they were captured, making independent analysis difficult.
-
-## Why these sounds are often called skyquakes
-
-A phenomenon known as a *skyquake* provides the closest documented parallel to many reports of mysterious aerial noises. Skyquakes are loud sounds that appear to originate from the sky, often resembling cannon fire, distant explosions or massive brass instruments. They have been reported around the world for more than two centuries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefocus.com/planet-earth/mystery-skyquakes-are-ripping-through-the-world-and-nobody-knows-why" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[sciencefocus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-snippet">Science FocusMystery ‘skyquakes’ are ripping through the world. And nobody knows why &#124; BBC Science Focus MagazineApril 12, 2026...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
-
-
+A key complication is that human [memory]({{ 'memory/' | relative_url }}) often reconstructs sensory experiences after unusual events. Sound descriptions can therefore become more dramatic over time, particularly when witnesses discuss incidents with others or consume media about UFO encounters.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1-Illustration-1-dark.svg" | relative_url }}" alt="UFO Noises illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Hum, Sky Trumpets and Other Sounds Linked to UFO Theories
 
-### What scientists think may cause them
+Some mysterious sound phenomena are not UFO sightings themselves but are frequently connected to UFO speculation.
 
-No single explanation accounts for every skyquake. Researchers have proposed multiple mechanisms, including:
+### The Taos Hum
 
+One of the most famous examples is the Taos Hum in New Mexico. Since at least the early 1990s, some residents have reported hearing a persistent low-frequency droning noise. People describe it as resembling a distant diesel engine, industrial machinery or a vehicle idling far away. Investigations have failed to identify a single clear source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic</span><span class="citation-popover-snippet">December 14, 2023 — 14 Dec 2023 — The Taos Hum phenomenon is not just a local curiosity, but one of several unexplained hums heard in var...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</span></span></span> The Taos case became influential because it demonstrated how difficult low-frequency sound can be to track. Not everyone hears it, recordings are inconsistent, and environmental measurements have not produced a universally accepted explanation. This uncertainty has encouraged some people to associate the phenomenon with secret technology, underground activity or UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic</span><span class="citation-popover-snippet">December 14, 2023 — 14 Dec 2023 — The Taos Hum phenomenon is not just a local curiosity, but one of several unexplained hums heard in var...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...Jul 8, 2021 — Maybe you hear it. A low frequency hum, almost a vibration, just on the threshold of h...</span></span></span>
+
+### “Sky Trumpets”
+
+Internet videos have popularised reports of loud metallic groans, trumpet-like blasts and other strange sounds apparently coming from the sky. These recordings are often labelled “sky trumpets”.
+
+Most investigated cases have conventional explanations, including industrial machinery, construction activity, atmospheric acoustics, trains, aircraft and audio manipulation. Yet the dramatic nature of the sounds has made them a frequent component of UFO and paranormal discussions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">From the “Taos hum” to “sky trumpets,” people around...From the “Taos hum” to “sky trumpets,” people around the world are heari...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ML0eB3HFagM" title="UFO Sound Effects All Sounds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer">UFO Sound Effects All Sounds</a></p><p class="youtube-embed-meta">Channel: All Sounds &middot; Views: 374.8K &middot; Uploaded: January 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ML0eB3HFagM">Open on YouTube</a></p></div></div></div>
+
+### Why These Sounds Become Associated with UFOs
+
+Several factors encourage a UFO interpretation:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Sonic booms from aircraft or meteors.
-* Atmospheric temperature layers bending sound over long distances.
-* Small earthquakes transmitting sound unusually efficiently.
-* Offshore wave activity.
-* Underground gas releases.
-* Quarry blasting or military exercises.
-* Rare combinations of weather and terrain that amplify distant sounds.
+* The source appears invisible.
+* The sound seems to come from above.
+* The noise occurs at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Whats your current viewpoint on the UFO phenomenon?Read more...</span></span></span>
+* Recordings are unclear.
+* The event feels unusual or emotionally intense.
 
 </div>
 
-Different cases likely have different causes. Rather than representing one unexplained phenomenon, "skyquakes" may be a label covering several unrelated processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefocus.com/planet-earth/mystery-skyquakes-are-ripping-through-the-world-and-nobody-knows-why" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-snippet">Science FocusMystery ‘skyquakes’ are ripping through the world. And nobody knows why &#124; BBC Science Focus MagazineApril 12, 2026...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
+When a sound lacks an obvious origin, people often fill the gap with explanations that match existing beliefs, whether extraterrestrial, supernatural or conspiratorial.
 
+## Famous UFO Cases Involving Sound
 
+### Buzzing and Vibrating Objects
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 51:24">51:24</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
+Many classic UFO reports include descriptions of buzzing or vibrating sounds. Witnesses frequently compare them to transformers, electrical substations or swarms of insects. In some accounts, the sound is said to fluctuate as the object changes altitude or [direction]({{ 'direction/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">town of Taos, New Mexico, and in other locations around the world.Read more...</span></span></span>
 
-## Are UFO sightings commonly accompanied by unusual sounds?
-
-Surprisingly, many famous UFO reports involve little or no reported sound.
-
-Witnesses often describe objects moving silently despite apparently high speeds. This silence has itself become part of UFO folklore because conventional aircraft normally produce significant engine noise.
-
-When sounds are reported alongside unidentified objects, they are inconsistent. Accounts include:
-
-* Buzzing.
-* Electrical crackling.
-* Low-frequency humming.
-* Whistling.
-* Mechanical vibration.
-
-Because these reports rely primarily on eyewitness testimony rather than calibrated acoustic measurements, they cannot establish a consistent physical pattern.
-
-NASA's independent UAP study concluded that the available evidence is too limited and inconsistent to support firm conclusions about the nature of unidentified aerial phenomena, including any characteristic sounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">NASA ScienceUAP - NASA ScienceFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
-
-## Famous cases involving mysterious noises
-
-Several well-known incidents are repeatedly cited in discussions of UFO noises, although none has produced conclusive evidence of an extraterrestrial origin.
-
-
+One reason these descriptions attract attention is that they differ from the familiar sound profile of conventional aircraft. Helicopters produce rhythmic rotor noise, jets create distinctive turbine sounds and propeller aircraft generate recognisable engine patterns. Witnesses who insist the sound was unlike any known aircraft often view that difference as evidence of something unusual.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1-Illustration-2-dark.svg" | relative_url }}" alt="UFO Noises illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Reports of Silence
 
-### The "sky trumpet" recordings
+Just as common are reports of complete silence.
 
-Beginning around the early 2010s, videos appeared online featuring loud metallic horn-like sounds echoing through urban environments. Many accumulated millions of views and were presented as evidence of UFO activity.
+Many witnesses claim that large objects passed overhead without audible engines. This feature appears repeatedly in military and civilian UFO accounts. Some reports describe objects apparently accelerating rapidly while remaining silent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The 10 Most Legitimate Cases of U.F.O</span><span class="citation-popover-snippet">Sightings27 Feb 2024 — Over the past decades, UFO sightings became synonymous with aliens. Reports from pilots, military personnel, and c...</span></span></span>
 
-Subsequent investigations found numerous problems:
+From a conventional standpoint, silence can result from distance, atmospheric conditions, misjudged size or mistaken estimates of speed. A bright light seen at night may appear closer and larger than it actually is. Even so, the repeated appearance of “silent flight” in UFO testimony has become one of the most discussed characteristics of alleged unidentified craft.
 
+### Sonic Booms and the Lack of Them
 
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+One recurring theme in UFO discussions is the apparent absence of sonic booms.
 
-* Original recording locations were often uncertain.
-* Several videos contained obvious audio editing.
-* Similar sound effects were traced to commercial audio libraries in some cases.
-* Independent verification was usually impossible.
+Objects travelling faster than sound normally produce shock waves that are heard as sonic booms. Yet some witnesses report observing rapid movement without hearing any boom at all. Former intelligence officials and military-related discussions surrounding modern UAP reports have occasionally highlighted this puzzle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">To be declassified: UFO broke sound barrier with no sonic...24 Mar 2021 — To be declassified: UFO broke sound barrier with no sonic...</span></span></span>
 
-</div>
+Sceptics note that accurately judging speed and distance is extremely difficult during brief aerial observations. If the object was farther away than assumed, the apparent contradiction may disappear. Nonetheless, the claimed absence of expected acoustic effects remains a central feature of many UFO narratives.
 
-While unusual sounds have certainly been recorded in some locations, viral compilations frequently combine authentic recordings with fabricated material.
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/61f4u1yC6kk" title="The sound of UFOs: authentic audio recordings and eyewitness descriptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=61f4u1yC6kk" target="_blank" rel="noopener noreferrer">The sound of UFOs: authentic audio recordings and eyewitness descriptions</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 39.6K &middot; Uploaded: January 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=61f4u1yC6kk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=61f4u1yC6kk">Open on YouTube</a></p></div></div></div>
 
+## What Science Says About Unusual Sky Sounds
 
+### Atmospheric Acoustics Can Be Strange
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 59:22">59:22</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+Sound does not always travel in straightforward ways.
 
-### Persistent humming reports
+Temperature [inversions]({{ 'inversions/' | relative_url }}), wind layers and humidity can bend sound over long distances. Industrial machinery, explosions, trains and aircraft may seem to originate from unexpected directions. In some conditions, sounds can appear to come directly from the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...Jul 8, 2021 — Maybe you hear it. A low frequency hum, almost a vibration, just on the threshold of h...</span></span></span>
 
-Some communities report ongoing low-frequency hums, sometimes called simply "the Hum." These reports have occasionally become associated with UFO speculation.
+This helps explain why witnesses sometimes struggle to identify the source of a noise even when the underlying cause is ordinary.
 
-However, investigations have suggested many possible explanations, including industrial equipment, electrical infrastructure, distant traffic, environmental acoustics and, in some individuals, auditory [perception]({{ 'perception/' | relative_url }}) differences. No consistent link to unidentified aerial phenomena has been demonstrated.
+### Infrasound
 
-## Why mysterious sounds are difficult to investigate
+Infrasound refers to sound below the normal range of human hearing.
 
-Acoustic investigations face several challenges.
+Natural events such as storms, earthquakes, volcanic activity and meteor entries can generate infrasonic waves. These frequencies can create sensations of pressure, unease or vibration without producing a clearly audible sound. Researchers studying aerial phenomena increasingly monitor infrasonic frequencies because they can reveal activity invisible to ordinary microphones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
-First, [sound travels]({{ 'sound-travel/' | relative_url }}) differently depending on weather, temperature, humidity and wind. Under certain atmospheric conditions, noises from factories, ships or distant highways can travel tens of kilometres while appearing to originate overhead.
-
-Second, humans are poor at locating low-frequency sounds. Bass frequencies provide relatively little directional information, making it easy to misjudge where a sound originated.
-
-Finally, many reports occur unexpectedly and last only a few seconds, leaving investigators without high-quality recordings or multiple independent measurements.
-
-These limitations mean that even genuine unexplained noises often remain unresolved without implying an extraordinary cause.
-
-
+Some scientists have suggested that certain reports of mysterious humming or physical sensations may involve infrasound rather than conventional audible noise.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1-Illustration-3-dark.svg" | relative_url }}" alt="UFO Noises illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Human Perception Is Imperfect
 
-## What scientific investigations of UAP say
+Psychologists have long noted that perception is not a simple recording process.
 
-Recent scientific reviews have approached unidentified aerial phenomena cautiously rather than dismissively.
+Stress, darkness, surprise and expectation can alter how people interpret sounds. A witness who already believes an unusual light is extraterrestrial may pay heightened attention to ambiguous noises occurring at the same time. Conversely, a startling sound can make a normal aerial object seem more mysterious.
 
-NASA's independent UAP study emphasised that the principal obstacle is not a lack of theories but a lack of high-quality data. The agency found no evidence that existing reports indicate extraterrestrial technology, while acknowledging that some observations remain unidentified because available information is insufficient. The recommended approach is better sensors, improved reporting standards and rigorous data analysis rather than speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">NASA ScienceUAP - NASA ScienceFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
+This does not mean witnesses are dishonest. It means that extraordinary experiences often combine real sensory input with interpretation.
 
-Similarly, recent releases of U.S. government UAP files include reports of unusual lights, radar contacts and witness statements, but they do not establish mysterious sounds as a recurring or defining feature of these incidents. Most investigated cases ultimately receive conventional explanations or remain unresolved because the evidence is incomplete rather than because it points to alien technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/3e658d2cf3742465127c0049c872240a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Spurred by former President Donald Trump&#x27;s push for transparency, the files include declassified State Department cables, FBI interviews...</span></span></span>
+## Modern Efforts to Record UFO Noises
 
-## Common misconceptions
+For most of UFO history, investigators depended almost entirely on witness testimony. That is beginning to change.
 
-Several popular beliefs deserve clarification.
+Projects studying unidentified aerial phenomena increasingly deploy acoustic [sensors]({{ 'sensors/' | relative_url }}) alongside cameras, radar and other instruments. Researchers involved in efforts such as the Galileo Project have developed systems capable of monitoring audible, ultrasonic and infrasonic signatures from aerial objects. The goal is to distinguish known aircraft, environmental phenomena and genuinely unidentified events using measurable data rather than anecdotal descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
-**"All mysterious sky sounds are UFOs."** There is no evidence supporting this claim. Most investigated cases have ordinary or plausible natural explanations.
+Acoustic monitoring is particularly useful because many aerial objects leave characteristic sound signatures. Even when visual evidence is poor, sound data can help identify aircraft, drones, atmospheric events or other known sources.
 
-**"Trumpet sounds only started recently."** Reports of unexplained booming or horn-like noises date back at least to the nineteenth century, long before modern social media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[discoveryuk.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Skyquake: The Mysterious Sounds from the Sky</span><span class="citation-popover-snippet">Discovery UK...</span></span></span>
+The challenge is that background noise is everywhere. Wind, traffic, animals, industry and weather can all contaminate recordings. Researchers therefore need large datasets and careful analysis before drawing conclusions from unusual sounds.
 
-**"Scientists ignore these reports."** Atmospheric scientists, geologists, acousticians and government agencies have investigated unexplained sounds and UAP reports, although many individual events remain unresolved due to limited evidence rather than lack of interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">NASA ScienceUAP - NASA ScienceFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ftUO9cGkTEY" title="The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer">The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico</a></p><p class="youtube-embed-meta">Channel: Arihant Online Academy &middot; Views: 1.8K &middot; Uploaded: June 2025 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ftUO9cGkTEY">Open on YouTube</a></p></div></div></div>
 
+## Why UFO Noises Remain Unresolved
 
+The strongest pattern in UFO noise reports is not a specific sound but the lack of reliable evidence.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 4:00:26">4:00:26</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
-
-## The current state of the evidence
-
-The strongest evidence indicates that mysterious aerial noises are a real observational phenomenon in the sense that people genuinely hear unusual sounds. However, the available data do not support the conclusion that these noises are characteristic of UFOs or extraterrestrial vehicles.
-
-Instead, the evidence points to a mixture of identifiable human activity, unusual atmospheric sound propagation, geological processes, occasional astronomical events such as meteors, and a smaller number of incidents that remain unexplained because they were not recorded well enough for a definitive analysis.
-
-For that reason, "UFO noises" remain more a subject of folklore and public fascination than an established scientific category. The [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) are interesting precisely because they are rare, poorly documented and resistant to simple explanation—not because they currently demonstrate the existence of alien spacecraft.
+Many witnesses describe similar humming, buzzing or vibrating sensations. Some reports involve silence where noise seems expected. Others feature mysterious booms or droning sounds that remain unexplained. Yet very few cases include high-quality recordings, multiple independent sensors and enough contextual information to determine exactly what happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The 10 Most Legitimate Cases of U.F.O</span><span class="citation-popover-snippet">Sightings27 Feb 2024 — Over the past decades, UFO sightings became synonymous with aliens. Reports from pilots, military personnel, and c...</span></span></span>, UFO noises occupy an unusual middle ground. They are common enough to form a recurring feature of UFO lore, but rarely documented well enough to establish a definitive explanation. Some cases likely involve aircraft, atmospheric effects, industrial noise or perceptual errors. A smaller number remain genuinely unidentified, not because they prove an extraterrestrial origin, but because the available evidence is too limited to reach a confident conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic</span><span class="citation-popover-snippet">December 14, 2023 — 14 Dec 2023 — The Taos Hum phenomenon is not just a local curiosity, but one of several unexplained hums heard in var...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...Jul 8, 2021 — Maybe you hear it. A low frequency hum, almost a vibration, just on the threshold of h...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -488,21 +422,21 @@ For that reason, "UFO noises" remain more a subject of folklore and public fasci
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to UFO Noises. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to What Do UFO Witnesses Hear?. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
 </h4>
-<p class="fr-book-author">By Adam Juniper</p>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-<p class="fr-book-desc">The perfect companion for anyone buying (or thinking of buying) a drone, whether it&#x27;s just for fun, to race against friends, or to give t...</p>
+<p class="fr-book-desc">Provides broader context for evaluating recurring UFO claims and reports.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -510,16 +444,16 @@ For that reason, "UFO noises" remain more a subject of folklore and public fasci
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering Noise Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v98PaeB8nQkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Engineering Noise Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering Noise Control">Engineering Noise Control</a>
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
-<p class="fr-book-author">By David A. Bies, Colin H. Hansen</p>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-<p class="fr-book-desc">The practice of engineering noise control demands a solid understanding of the fundamentals of acoustics, the practical application of cu...</p>
+<p class="fr-book-desc">Examines patterns in UFO reports and witness testimony, including observational details.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -527,16 +461,16 @@ For that reason, "UFO noises" remain more a subject of folklore and public fasci
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Small+Unmanned+Aircraft+by+Randal+W.+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Small Unmanned Aircraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZR8PuVUy-ygC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Small Unmanned Aircraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Small+Unmanned+Aircraft+by+Randal+W.+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small Unmanned Aircraft">Small Unmanned Aircraft</a>
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
-<p class="fr-book-author">By Randal W. Beard, Timothy W. McLain</p>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-<p class="fr-book-desc">Includes bibliographical references (p. [291]-298) and index.</p>
+<p class="fr-book-desc">Documents witness cases and investigative challenges surrounding unexplained aerial reports.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Small+Unmanned+Aircraft+by+Randal+W.+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -544,16 +478,16 @@ For that reason, "UFO noises" remain more a subject of folklore and public fasci
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones">Drones</a>
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
 </h4>
-<p class="fr-book-author">By Adam Juniper</p>
+<p class="fr-book-author">By Michael Shermer</p>
         
-<p class="fr-book-desc">Grâce à ce guide très illustré, vous allez acquérir toutes les compétences et les connaissances pour faire voler votre drone à la perfect...</p>
+<p class="fr-book-desc">Explores perception, memory, and interpretation of unusual experiences.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -561,7 +495,7 @@ For that reason, "UFO noises" remain more a subject of folklore and public fasci
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+Noise+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering Noise Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Small+Unmanned+Aircraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Small Unmanned Aircraft</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
@@ -574,7 +508,7 @@ For that reason, "UFO noises" remain more a subject of folklore and public fasci
 <p class="fr-section-kicker">eBay marketplace picks</p>
 <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
 </div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
 <div class="fr-ebay-market-toolbar">
 <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -595,75 +529,74 @@ For that reason, "UFO noises" remain more a subject of folklore and public fasci
 </div>
 
 <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter model" data-ebay-reference="ufo-noises-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">helicopter model</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
 <div class="fr-books-grid">
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="related" data-ebay-card-position="1">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377159049007?_skw=helicopter+model&amp;hash=item57d06e5f2f%3Ag%3AwHgAAeSwWi9p9vL7&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbB%2BnCvt%2Bk1VWcMKFiVNUaIswtmRlOaahTBpJD0%2BkJGgu6sJzg00DrWsBqUihwCd4z2DGMjvpxG3JwW%2BFWig23vJJ5c7DBB0XY4p%2Ffa5dmtFtOvnrPcW6lg9oKgN7LPNerOS8MsckqH429ZWPsLiEdjUKQsTBT4S6dhjVEzZvAySNdYccvg74kIdwRT1XPjwKHHcAlPCFkSfIftcv6yGO3jR0Ee8Io%2FjB5B%2FrComjw8F97WuqyvczuEvCbfxCNemkN%2FpdP9qCGr7H65jDGehivZnw%2BM8V%2Fj%2F2H2G1c0%2BCdDLA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="1" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: 1991 Westland Puma HC mk1 helicopter model 1:72 complete with stand"><img src="{{ '/assets/images/marketplace-covers/77ab0a88ae5009fdc2ca.jpg' | relative_url }}" alt="Listing image for 1991 Westland Puma HC mk1 helicopter model 1:72 complete with stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Related eBay result</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/377159049007?_skw=helicopter+model&amp;hash=item57d06e5f2f%3Ag%3AwHgAAeSwWi9p9vL7&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbB%2BnCvt%2Bk1VWcMKFiVNUaIswtmRlOaahTBpJD0%2BkJGgu6sJzg00DrWsBqUihwCd4z2DGMjvpxG3JwW%2BFWig23vJJ5c7DBB0XY4p%2Ffa5dmtFtOvnrPcW6lg9oKgN7LPNerOS8MsckqH429ZWPsLiEdjUKQsTBT4S6dhjVEzZvAySNdYccvg74kIdwRT1XPjwKHHcAlPCFkSfIftcv6yGO3jR0Ee8Io%2FjB5B%2FrComjw8F97WuqyvczuEvCbfxCNemkN%2FpdP9qCGr7H65jDGehivZnw%2BM8V%2Fj%2F2H2G1c0%2BCdDLA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="1" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1991 Westland Puma HC mk1 helicopter model 1:72 complete with stand</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 27.99 | Free shipping</span><span>Used</span><span>Seller: aberdi 54 (99.7% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/377159049007?_skw=helicopter+model&amp;hash=item57d06e5f2f%3Ag%3AwHgAAeSwWi9p9vL7&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbB%2BnCvt%2Bk1VWcMKFiVNUaIswtmRlOaahTBpJD0%2BkJGgu6sJzg00DrWsBqUihwCd4z2DGMjvpxG3JwW%2BFWig23vJJ5c7DBB0XY4p%2Ffa5dmtFtOvnrPcW6lg9oKgN7LPNerOS8MsckqH429ZWPsLiEdjUKQsTBT4S6dhjVEzZvAySNdYccvg74kIdwRT1XPjwKHHcAlPCFkSfIftcv6yGO3jR0Ee8Io%2FjB5B%2FrComjw8F97WuqyvczuEvCbfxCNemkN%2FpdP9qCGr7H65jDGehivZnw%2BM8V%2Fj%2F2H2G1c0%2BCdDLA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="1" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="related" data-ebay-card-position="2">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/366066914415?_skw=helicopter+model&amp;hash=item553b49d46f%3Ag%3AJPMAAeSwvthpRKEX&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="2" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Helicopter Helicopter Model Toys Alloy Airplane Model Diecast Helicopter Toy New"><img src="{{ '/assets/images/marketplace-covers/7991d76050f6d5c7fe3a.jpg' | relative_url }}" alt="Listing image for Helicopter Helicopter Model Toys Alloy Airplane Model Diecast Helicopter Toy New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Related eBay result</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/366066914415?_skw=helicopter+model&amp;hash=item553b49d46f%3Ag%3AJPMAAeSwvthpRKEX&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="2" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Helicopter Helicopter Model Toys Alloy Airplane Model Diecast Helicopter Toy New</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 3.99 | Free shipping</span><span>New</span><span>Seller: otabuterst (99.6% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/366066914415?_skw=helicopter+model&amp;hash=item553b49d46f%3Ag%3AJPMAAeSwvthpRKEX&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="2" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="related" data-ebay-card-position="3">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/287361665256?_skw=helicopter+model&amp;hash=item42e81708e8%3Ag%3ACKAAAeSwuXBqGdpL&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbXQb%2FcwPyCwZ0Z0ngT5kJeBSipRirSMUViQurFyLpVTBEuiNFao0Jy3FsbjUvehITqwrkwrvnlpq4EXwO4ytBt3JdkPfqjCdKx%2FzuCJLBqqCBFhWOcuQnMDcaZLcOE7pBi%2FJPiu3mg6J%2B6SCVoK4ItlaZVvuCA2J0zEA%2FEncteC%2FLS9gQ%2BbbNNab%2FYe7hda1lPe4kgKz%2F4PS2EgwvETYRfmi2RECGX942nrZDx1BS9mypStYPTpO0RRM2eQ3JSoJsJ93yUy6UdYo93aoU7r9K%2F8dbBsqkEZC1QdjKOnMHISw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="3" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: AMERCOM Diecast Model Helicopter 1:72 UH-60L Blackhawk US Army"><img src="{{ '/assets/images/marketplace-covers/2181d36351a429c659bd.jpg' | relative_url }}" alt="Listing image for AMERCOM Diecast Model Helicopter 1:72 UH-60L Blackhawk US Army" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Related eBay result</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/287361665256?_skw=helicopter+model&amp;hash=item42e81708e8%3Ag%3ACKAAAeSwuXBqGdpL&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbXQb%2FcwPyCwZ0Z0ngT5kJeBSipRirSMUViQurFyLpVTBEuiNFao0Jy3FsbjUvehITqwrkwrvnlpq4EXwO4ytBt3JdkPfqjCdKx%2FzuCJLBqqCBFhWOcuQnMDcaZLcOE7pBi%2FJPiu3mg6J%2B6SCVoK4ItlaZVvuCA2J0zEA%2FEncteC%2FLS9gQ%2BbbNNab%2FYe7hda1lPe4kgKz%2F4PS2EgwvETYRfmi2RECGX942nrZDx1BS9mypStYPTpO0RRM2eQ3JSoJsJ93yUy6UdYo93aoU7r9K%2F8dbBsqkEZC1QdjKOnMHISw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="3" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AMERCOM Diecast Model Helicopter 1:72 UH-60L Blackhawk US Army</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 16.15 | Shipping GBP 2.94</span><span>New</span><span>Seller: neiseybear (100.0% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/287361665256?_skw=helicopter+model&amp;hash=item42e81708e8%3Ag%3ACKAAAeSwuXBqGdpL&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbXQb%2FcwPyCwZ0Z0ngT5kJeBSipRirSMUViQurFyLpVTBEuiNFao0Jy3FsbjUvehITqwrkwrvnlpq4EXwO4ytBt3JdkPfqjCdKx%2FzuCJLBqqCBFhWOcuQnMDcaZLcOE7pBi%2FJPiu3mg6J%2B6SCVoK4ItlaZVvuCA2J0zEA%2FEncteC%2FLS9gQ%2BbbNNab%2FYe7hda1lPe4kgKz%2F4PS2EgwvETYRfmi2RECGX942nrZDx1BS9mypStYPTpO0RRM2eQ3JSoJsJ93yUy6UdYo93aoU7r9K%2F8dbBsqkEZC1QdjKOnMHISw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="3" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 
-<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="related" data-ebay-card-position="4">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/398014587434?_skw=helicopter+model&amp;hash=item5cab84a22a%3Ag%3ArV4AAeSwHH9qHIq5&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="4" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Atlas Ge Fabbri 1:100 Scale Mi-24 Hind Diecast Soviet Helicopter Model"><img src="{{ '/assets/images/marketplace-covers/46fd23e7ce020e0f519f.jpg' | relative_url }}" alt="Listing image for Atlas Ge Fabbri 1:100 Scale Mi-24 Hind Diecast Soviet Helicopter Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
-<p class="fr-book-kicker">Related eBay result</p>
+<p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/itm/398014587434?_skw=helicopter+model&amp;hash=item5cab84a22a%3Ag%3ArV4AAeSwHH9qHIq5&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="4" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Atlas Ge Fabbri 1:100 Scale Mi-24 Hind Diecast Soviet Helicopter Model</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
 </h4>
-<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.26 | Shipping GBP 2.94</span><span>New</span><span>Seller: theaircraftshelf (100.0% positive)</span><span>Ships from: GB</span></p>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/itm/398014587434?_skw=helicopter+model&amp;hash=item5cab84a22a%3Ag%3ArV4AAeSwHH9qHIq5&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="related" data-ebay-card-position="4" data-ebay-relevance-tier="related_search" data-ebay-query="helicopter model" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            View listing on eBay
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
 </div>
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=helicopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-helicopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helicopter model" data-ebay-reference="ufo-noises-helicopter-model" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-noises-what-do-ufo-witnesses-hear-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -877,137 +810,135 @@ For that reason, "UFO noises" remain more a subject of folklore and public fasci
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Title: Science UAP  
-   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP - NASA ScienceFebruary 23, 2026...</p></details>
-   Published: February 23, 2026  
+   Source: reddit.com  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wha is the significance of the buzzing or flute sound...February 27, 2023 — Wha is the significance of the buzzing or flute sound...</p></details>
+   Published: February 27, 2023  
 
 2.<a id="endnote-2"></a>
-   Source: nasa.gov  
-   Title: NAS A to Release, Discuss Unidentified Anomalous Phenomena Report  
-   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous Phenomena Report - NASA...</p></details>
+   Source: discoveryuk.com  
+   Title: Discovery UKThe Taos Hum: New Mexico's Unexplained Acoustic  
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — 14 Dec 2023 — The Taos Hum phenomenon is not just a local curiosity, but one of several unexplained hums heard in var...</p></details>
+   Published: December 14, 2023  
 
 3.<a id="endnote-3"></a>
-   Source: discoveryuk.com  
-   Title: Skyquake: The Mysterious Sounds from the Sky  
-   Link:<a href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UK...</p></details>
+   Source: thrillist.com  
+   Title: taos hum mystery  
+   Link:<a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</p></details>
 
 4.<a id="endnote-4"></a>
-   Source: science.nasa.gov  
-   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Source: instagram.com  
+   Link:<a href="https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the “Taos hum” to “sky trumpets,” people around...From the “Taos hum” to “sky trumpets,” people around the world are heari...</p></details>
 
 5.<a id="endnote-5"></a>
-   Source: jpl.nasa.gov  
-   Title: rover detects electric sparks in mars dust devils storms  
-   Link:<a href="https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/</a>  
+   Source: science.howstuffworks.com  
+   Title: How Stuff Works The 10 Most Legitimate Cases of U.F.O  
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — Over the past decades, UFO sightings became synonymous with aliens. Reports from pilots, military personnel, and c...</p></details>
 
 6.<a id="endnote-6"></a>
-   Source: nasa.gov  
-   Title: UPDAT E: NASA Shares UAP Independent Study Report; Names Director  
-   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Source: space.com  
+   Link:<a href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/declassified-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To be declassified: UFO broke sound barrier with no sonic...24 Mar 2021 — To be declassified: UFO broke sound barrier with no sonic...</p></details>
 
 7.<a id="endnote-7"></a>
-   Source: nasa.gov  
-   Title: NAS A Provides Coverage of Unidentified Anomalous Phenomena Meeting  
-   Link:<a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
+   Source: arxiv.org  
+   Title: arXiv Multi-Band Acoustic Monitoring of Aerial Signatures  
+   Link:<a href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18551</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</p></details>
+   Published: May 29, 2023  
 
 8.<a id="endnote-8"></a>
-   Source: nasa.gov  
-   Title: Help Discover the Sounds of Space Played by NASA’s HARP  
-   Link:<a href="https://www.nasa.gov/science-research/heliophysics/space-weather/help-discover-the-sounds-of-space-played-by-nasas-harp/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/science-research/heliophysics/space-weather/help-discover-the-sounds-of-space-played-by-nasas-harp/</a>  
+   Source: arxiv.org  
+   Link:<a href="https://arxiv.org/abs/2512.03119" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.03119</a>  
 
 9.<a id="endnote-9"></a>
-   Source: nasa.gov  
-   Title: NAS A Announces Unidentified Aerial Phenomena Study Team Members  
-   Link:<a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
+   Source: arxiv.org  
+   Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
+   Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
 10.<a id="endnote-10"></a>
-   Source: nasa.gov  
-   Title: NAS A to Discuss New Unidentified Aerial Phenomena Study Today  
-   Link:<a href="https://www.nasa.gov/news-release/nasa-to-discuss-new-unidentified-aerial-phenomena-study-today/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-discuss-new-unidentified-aerial-phenomena-study-today/</a>  
+   Source: reddit.com  
+   Link:<a href="https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>town of Taos, New Mexico, and in other locations around the world.Read more...</p></details>
 
 11.<a id="endnote-11"></a>
-   Source: science.nasa.gov  
-   Title: eavesdropping in space how nasa records eerie sounds around earth  
-   Link:<a href="https://science.nasa.gov/blogs/the-sun-spot/2018/12/11/eavesdropping-in-space-how-nasa-records-eerie-sounds-around-earth/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/blogs/the-sun-spot/2018/12/11/eavesdropping-in-space-how-nasa-records-eerie-sounds-around-earth/</a>  
+   Source: reddit.com  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whats your current viewpoint on the UFO phenomenon?Read more...</p></details>
 
 12.<a id="endnote-12"></a>
-   Source: science.nasa.gov  
-   Title: identifying ufos and uaps  
-   Link:<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
+   Source: instagram.com  
+   Link:<a href="https://www.instagram.com/reel/DXjHxlKjLCK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXjHxlKjLCK/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>de Recordings Without Answers: Audio so bizarre...</p></details>
 
 13.<a id="endnote-13"></a>
-   Source: science.nasa.gov  
-   Title: 01nov ismsounds  
-   Link:<a href="https://science.nasa.gov/science-research/planetary-science/01nov_ismsounds/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/science-research/planetary-science/01nov_ismsounds/</a>  
+   Source: nationalarchives.gov.uk  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</p></details>
 
 14.<a id="endnote-14"></a>
-   Source: sciencefocus.com  
-   Link:<a href="https://www.sciencefocus.com/planet-earth/mystery-skyquakes-are-ripping-through-the-world-and-nobody-knows-why" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/planet-earth/mystery-skyquakes-are-ripping-through-the-world-and-nobody-knows-why</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Science FocusMystery ‘skyquakes’ are ripping through the world. And nobody knows why | BBC Science Focus MagazineApril 12, 2026...</p></details>
-   Published: April 12, 2026  
+   Source: theguardian.com  
+   Title: The Guardian Can you hear the Hum?  
+   Link:<a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...Jul 8, 2021 — Maybe you hear it. A low frequency hum, almost a vibration, just on the threshold of h...</p></details>
 
 15.<a id="endnote-15"></a>
-   Source: apnews.com  
-   Link:<a href="https://apnews.com/article/3e658d2cf3742465127c0049c872240a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3e658d2cf3742465127c0049c872240a</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Spurred by former President Donald Trump&#x27;s push for transparency, the files include declassified State Department cables, FBI interviews...</p></details>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ftUO9cGkTEY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e early 1990s...</p></details>
 
 ### Additional References
 
 16.<a id="endnote-16"></a>
-   Source: livescience.com  
-   Link:<a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</p></details>
+   Source: history.co.uk  
+   Link:<a href="https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s most famous UFO sightingsHere are some of the more noteworthy historical UFO sightings: A UFO hovering in the night sky. Read m...</p></details>
 
 17.<a id="endnote-17"></a>
-   Source: boingboing.net  
-   Title: Barisal guns: mysterious booms called skyquakes  
-   Link:<a href="https://boingboing.net/2026/07/19/barisal-guns.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2026/07/19/barisal-guns.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ellsworth Toohey 7:30 am Sun Jul 19, 2026 Image: Barisal guns — NASA Terra/MODIS (Banco de Imágenes Geológicas) / CC BY 2.0 (via Wikimedia...</p></details>
+   Source: Wikipedia  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsAlthough often viewed as abnormal, UFO sightings are reported frequently.... During the United States&#x27;...</p></details>
 
 18.<a id="endnote-18"></a>
-   Source: audiology.org  
-   Title: American Academy of Audiology Skyquakes—Did You Hear It?  
-   Link:<a href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.audiology.org/skyquakes-did-you-hear-it/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>American Academy of AudiologySkyquakes—Did You Hear It? - American Academy of Audiology...</p></details>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ML0eB3HFagM</a>  
 
 19.<a id="endnote-19"></a>
-   Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strangest Encounters in Space | NASA&#x27;s Unexplained Files...</p></details>
+   Source: spyscape.com  
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
 
 20.<a id="endnote-20"></a>
-   Source: youtube.com  
-   Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)...</p></details>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as confirmed the loud boom heard Tuesday morning in parts...Read more...</p></details>
 
 21.<a id="endnote-21"></a>
-   Source: youtube.com  
-   Title: Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)  
-   Link:<a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sky Just BOOMED… But No One Knows Why...</p></details>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/NYPost/videos/what-are-these-mystery-sounds-in-the-sky/947662304828895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NYPost/videos/what-are-these-mystery-sounds-in-the-sky/947662304828895/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eepy sounds coming from above. Are they signs of the Apocalypse...</p></details>
 
 22.<a id="endnote-22"></a>
-   Source: youtube.com  
-   Title: The Sky Just BOOMED… But No One Knows Why  
-   Link:<a href="https://www.youtube.com/watch?v=j7QOQ1IKYes" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j7QOQ1IKYes</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Breakdown UAP Footage with the Head of The Pentagon&#x27;s UAP Taskforce, Dr. Jon Kosloski...</p></details>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/WLTXNews19/posts/two-bases-say-it-wasnt-them-nasa-reported-no-meteor-a-leading-theory-an-aircraft/1469088085246128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WLTXNews19/posts/two-bases-say-it-wasnt-them-nasa-reported-no-meteor-a-leading-theory-an-aircraft/1469088085246128/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ircraft went supersonic, and the sound bounced for miles...</p></details>
 
 23.<a id="endnote-23"></a>
-   Source: usgs.gov  
-   Link:<a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds</a>  
+   Source: artsandculture.google.com  
+   Link:<a href="https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.com10 UFO Sightings Around the World10 UFO Sightings Around the World. Join us on a journey around the world, to discover 10 of th...</p></details>
 
 24.<a id="endnote-24"></a>
-   Source: earthsky.org  
-   Title: What is The Hum?  
-   Link:<a href="https://earthsky.org/human-world/the-hum-scientific-update-unsolved-mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/human-world/the-hum-scientific-update-unsolved-mysteries/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists provide an updateJune 7, 2026 — WHAT IS THE HUM? SCIENTISTS PROVIDE AN UPDATE Posted by Paul Scott Anderson and Image June 7...</p></details>
-   Published: June 7, 2026  
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon UFO Recording - UFOs The Lost Evidence...</p></details>
 
 25.<a id="endnote-25"></a>
-   Source: conspiracy-theories.site  
-   Link:<a href="https://conspiracy-theories.site/disasters-engineering-mysteries/verdict-on-mysterious-sky-trumpets-claims-evidence-gaps-and-what-we-can-and-cant-prove/" target="_blank" rel="noopener noreferrer nofollow">https://conspiracy-theories.site/disasters-engineering-mysteries/verdict-on-mysterious-sky-trumpets-claims-evidence-gaps-and-what-we-can-and-cant-prove/</a>  
+   Source: buriedsecretspodcast.com  
+   Title: hallucinatory ufos and sound  
+   Link:<a href="https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/" target="_blank" rel="noopener noreferrer nofollow">https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2023 — Hallucinatory UFOs and sound · Sound in UFO encounters · The Estes Method, the Double-Blind Ghost Box, and strange sounds ·...</p></details>
