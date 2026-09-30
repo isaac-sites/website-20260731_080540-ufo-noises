@@ -364,6 +364,7 @@ next_link:
   short_title: Silent Sightings
   heading_title: Why Do So Many UFO Reports Describe Silence?
 date: '2026-07-31 07:58:32 '
+last_modified_at: '2026-07-31 07:58:32 '
 header:
   og_image: /assets/images/ufo_noises_37edd1_record_unexplained_s_403e7e-overview-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_record_unexplained_s_403e7e-overview.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-expectation-memory-u/
 description: Focused pages that expand on Perception.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_noises_37edd1_expectation_memory_u_a9ca21
 parent_title: Perception | UFO Noises

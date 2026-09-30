@@ -283,6 +283,7 @@ next_link:
   short_title: Phone Setup
   heading_title: How to Capture a Clear Sky Sound Recording
 date: '2026-07-31 07:59:13 '
+last_modified_at: '2026-07-31 07:59:13 '
 header:
   og_image: /assets/images/ufo_noises_37edd1_record_unexplained_s_403e7e_original_file_preser_6c3c5d-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_record_unexplained_s_403e7e_original_file_preser_6c3c5d-Illustration-1.webp
