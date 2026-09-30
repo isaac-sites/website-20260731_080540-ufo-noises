@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-ufo-buzzing-vs-drone/
 description: Focused pages that expand on Drones.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_noises_37edd1_ufo_buzzing_vs_drone_7576a5
 parent_title: Drones | UFO Noises

@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-30 21:40:50'
+last_modified_at: '2026-07-30 21:40:50'
 parent_title: Could That Buzzing UFO Be a Drone? | UFO Noises
 parent_permalink: /drones/
 parent_nav_short_title: Drones

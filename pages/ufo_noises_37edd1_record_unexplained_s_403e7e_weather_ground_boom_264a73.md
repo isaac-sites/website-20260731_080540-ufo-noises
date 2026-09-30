@@ -289,6 +289,7 @@ next_link:
   short_title: Witness Accounts
   heading_title: When Multiple Witnesses Make a Sound Report Stronger
 date: '2026-07-31 07:58:44 '
+last_modified_at: '2026-07-31 07:58:44 '
 header:
   og_image: /assets/images/ufo_noises_37edd1_record_unexplained_s_403e7e_weather_ground_boom_264a73-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_record_unexplained_s_403e7e_weather_ground_boom_264a73-Illustration-1.webp

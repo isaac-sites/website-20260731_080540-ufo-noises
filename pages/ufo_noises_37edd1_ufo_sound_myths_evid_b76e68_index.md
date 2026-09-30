@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-ufo-sound-myths-evid/
 description: Focused pages that expand on Myths.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_noises_37edd1_ufo_sound_myths_evid_b76e68
 parent_title: Myths | UFO Noises
