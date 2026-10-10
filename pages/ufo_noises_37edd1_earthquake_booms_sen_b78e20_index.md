@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-earthquake-booms-sen/
 description: Focused pages that expand on Earth Booms.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_noises_37edd1_earthquake_booms_sen_b78e20
 parent_title: Earth Booms | UFO Noises

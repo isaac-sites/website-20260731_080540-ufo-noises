@@ -225,6 +225,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-30 21:14:43'
+last_modified_at: '2026-07-30 21:14:43'
 parent_title: What Sounds Do UFO Witnesses Actually Report? | UFO Noises
 parent_permalink: /sound-reports/
 parent_nav_short_title: Sound Reports

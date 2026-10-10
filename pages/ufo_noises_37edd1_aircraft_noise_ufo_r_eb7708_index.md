@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-aircraft-noise-ufo-r/
 description: Focused pages that expand on Aircraft Noise.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_noises_37edd1_aircraft_noise_ufo_r_eb7708
 parent_title: Aircraft Noise | UFO Noises

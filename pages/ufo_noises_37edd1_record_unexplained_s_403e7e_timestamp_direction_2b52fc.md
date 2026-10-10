@@ -289,6 +289,7 @@ next_link:
   short_title: Weather Clues
   heading_title: Was the Sound in the Sky or Ground?
 date: '2026-07-31 07:58:44 '
+last_modified_at: '2026-07-31 07:58:44 '
 header:
   og_image: /assets/images/ufo_noises_37edd1_record_unexplained_s_403e7e_timestamp_direction_2b52fc-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_record_unexplained_s_403e7e_timestamp_direction_2b52fc-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-reported-ufo-sound-p/
 description: Focused pages that expand on Sound Reports.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_noises_37edd1_reported_ufo_sound_p_8e97ba
 parent_title: Sound Reports | UFO Noises
